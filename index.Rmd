@@ -47,7 +47,7 @@ versión descargable, haz click [aquí]().
 
 
 
-# Slides
+# Presentaciones
 
 ```{r echo = F, results = 'asis'}
 slides = dir('slides', full = TRUE)
@@ -73,7 +73,7 @@ writeLines(links[-c(last, last2)])
 - Los sonidos del habla - Universidad de Iowa ([inglés](http://soundsofspeech.uiowa.edu/english/english.html), [español](http://soundsofspeech.uiowa.edu/spanish/spanish.html))
 - [Mi página web personal](www.jvcasillas.com)
 
-## Artiículos
+## Artículos
 
 - aqui
 
