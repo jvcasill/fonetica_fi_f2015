@@ -1,0 +1,43 @@
+---
+title       : 'Class name here'
+author      : 'Instructor: Joseph V. Casillas'
+hitheme     : solarized_light
+mode        : selfcontained
+github      : {user: jvcasill, repo: rmd_class_template, branch: gh-pages}
+---
+
+
+<a href="http://prose.io/#{{site.github.user}}/{{site.github.repo}}/edit/gh-pages/index.Rmd" class="button icon edit">Edit Page</a>
+
+```{r setup, cache = F, echo = F}
+knitr::knit_hooks$set(document = function(doc){
+  gsub('`` ', '```', doc)
+})
+```
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+
+# Slides
+
+```{r echo = F, results = 'asis'}
+slides = dir('slides', full = TRUE)
+links = paste0(seq_along(slides), ". ", 
+  "[Slides: ", basename(slides), "]", "(", slides, "/index.html)"
+)
+last <- length(links)
+last2 <- length(links) - 1
+writeLines(links[-c(last, last2)])
+```
+
+
+
+<!-- <a href='lectures/01/#3'>
+   <img style='border: 1px solid;' width=100% src=http://www.clipular.com/c?14735047=rpmipgzz3PAoKUVW7jQ4hE30iKk&f=.png></img>
+</a>
+
+ -->
+
+
+
+
+
