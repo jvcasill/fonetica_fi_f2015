@@ -19,7 +19,15 @@ github      : {user: jvcasill, repo: fonetica_fi_f2015, branch: gh-pages}
 
 # Acerca de la asignatura
 
-Descripción básica aquí
+El objetivo primordial de este curso consiste en ayudar al hablante nativo de inglés a mejorar su 
+pronunciación del español. Se intentará cumplir el mencionado objetivo creando conciencia en el 
+estudiante de cómo funciona el sistema fonológico del español a varios niveles: a través de un 
+mejor entendimiento de los conceptos fonéticos y fonológicos relevantes, de la aplicación de 
+dichos conceptos mediante ejercicios de transcripción escrita y producción oral y del 
+reconocimiento de rasgos fonéticos y fonológicos en el español hablado, todo ello sin olvidar el 
+importante papel desempeñado por la variación dialectal. El curso proporciona al estudiante el 
+ambiente relajado y de apoyo que es necesario para reducir al máximo las inhibiciones y 
+obstáculos que a menudo se interponen a la práctica de la pronunciación.
 
 ----
 
@@ -33,8 +41,8 @@ Descripción básica aquí
 
 ## Programa de la asignatura
 
-Haz click [aquí]() para consultar el programa de la asignatura. Para una 
-versión descargable, haz click [aquí]().
+Haz click [aquí](http://www.jvcasillas.com/fonetica_fi_f2015/slides/00_programa/index.html) para consultar el programa de la asignatura. Para una 
+versión descargable, haz click [aquí](http://www.jvcasillas.com/fonetica_fi_f2015/libraries/assets/programa/index.pdf).
 
 ## Agenda
 
