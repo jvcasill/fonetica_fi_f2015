@@ -257,9 +257,158 @@ proporcionando detalles y fechas más exactas más adecuadas al ritmo de la clas
 | Semana 13 | 08/12, 10/12 | El español de EEUU. Grabaciones.                      |
 | Semana 14 | 15/12        | Prueba 4                                              |
 
+--- .segue bg:grey
+
+# Descanso (10 minutos)
+
+<div style="float:right">
+  <img width="370" src="../../libraries/assets/img/descanso.jpg">
+</div>
+
+--- .segue bg:grey
+
+# ¿Qué es la lingüística?
+
+---
+
+## ¿Qué es la lingüística?
+
+- La morfología
+- La sintaxis
+- La semántica
+- La pragmática
+- La sociolingüística
+- La fonética (articulatoria, perceptual o acústica)
+- La fonología
+
+---
+
+## La morfología
+
+- **La morfología**: el estudio de la estructura de las palabras
+	- ej. morfología
+		- morph- : “forma” (del griego)
+		- -logía : “tratado”, “ciencia” = ciencia de la forma
+
+<div align="center">
+  <img width="600" src="./assets/img/morfologia.jpg">
+</div>
+
+---
+
+## La sintaxis
+
+- **La sintaxis**: el estudio de la formación de oraciones
+
+</br>
+
+<div align="center">
+  <img width="600" src="./assets/img/sintaxis.png">
+</div>
+
+---
+
+## La semántica
+
+- **La semántica**: el estudio del significado de las palabras, frases y oraciones. 
+
+<div align="center">
+  <img width="400" src="./assets/img/semantica.jpg">
+</div>
+
+---
+
+## La sociolingüística
+
+- **La sociolingüística**: la lengua en la sociedad y cómo varía según diferentes 
+factores sociales (la edad, la clase social, el nivel de educación, etc.)
+
+</br>
+
+<div align="center">
+  <img width="800" src="./assets/img/sociolinguistics.gif">
+</div>
+
+---
+
+</br>
+
+<div align="center">
+  <video width="550" allowfullscreen controls>
+    <source src="../../libraries/assets/videos/monologo.mov" type="video/mp4">
+    <source src="../../libraries/assets/videos/monologo.ogg" type="video/ogg">
+  </video>
+</div>
+
+---
+
+## La fonética
+
+- **La fonética**: la ciencia que estudia la producción, transmisión y percepción de los sonidos. 
+
+### Los sonidos se tienen como fenómenos puramente físicos.
+
+>- **fonética articulatoria**: cómo se producen los sonidos
+
+<div align="center">
+  <img width="400" src="./assets/img/articulatoria.png">
+</div>
 
 
+---
 
+## La fonética
 
+- **La fonética**: la ciencia que estudia la producción, transmisión y percepción de los sonidos. 
 
+### Los sonidos se tienen como fenómenos puramente físicos.
+
+- **fonética articulatoria**: cómo se producen los sonidos
+- **fonética perceptual**: cómo se perciben los sonidos
+
+<div align="center">
+  <img width="600" src="./assets/img/percepcion.png">
+</div>
+
+---
+
+## La fonética
+
+- **La fonética**: la ciencia que estudia la producción, transmisión y percepción de los sonidos. 
+
+### Los sonidos se tienen como fenómenos puramente físicos.
+
+- **fonética articulatoria**: cómo se producen los sonidos
+- **fonética perceptual**: cómo se perciben los sonidos
+- **fonética acústica**: las propiedades físicas de los sonidos
+
+</br>
+
+<div align="center">
+  <img width="600" src="./assets/img/praat.png">
+</div>
+
+---
+
+## La fonología
+
+- La fonología estudia cómo los sonidos se comportan en una lengua, cómo se 
+usan para distinguir significados, su distribución en la lengua y sus relaciones. 
+	- ej. bata/pata
+	- ej. casa/caza
+
+<div align="center">
+  <img width="350" src="./assets/img/fonologia.png">
+</div>
+
+---
+
+</br>
+
+<div align="center">
+  <video width="550" allowfullscreen controls>
+    <source src="../../libraries/assets/videos/why.mpg" type="video/mp4">
+    <source src="../../libraries/assets/videos/why.ogg" type="video/ogg">
+  </video>
+</div>
 

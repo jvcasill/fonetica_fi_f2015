@@ -540,4 +540,12 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 - los resúmenes para mañana
 
 
+<!-- 
+ .segue bg:grey
 
+# Descanso (10 minutos)
+
+<div style="float:right">
+  <img width="370" src="../../libraries/assets/img/descanso.jpg">
+</div>
+ -->
