@@ -12,50 +12,59 @@ github      : {user: jvcasill, repo: fonetica_fi_f2015, branch: gh-pages}
 
 ----
 
+</br> 
 
+## Acerca de la asignatura
 
+El objetivo primordial de este curso consiste en ayudar al hablante nativo de 
+inglés a mejorar su pronunciación del español. Se intentará cumplir el 
+mencionado objetivo creando conciencia en el estudiante de cómo funciona el 
+sistema fonológico del español a varios niveles: a través de un mejor 
+entendimiento de los conceptos fonéticos y fonológicos relevantes, de la 
+aplicación de dichos conceptos mediante ejercicios de transcripción escrita y producción oral y del reconocimiento de rasgos fonéticos y fonológicos en el 
+español hablado, todo ello sin olvidar el importante papel desempeñado por la variación dialectal. El curso proporciona al estudiante el ambiente relajado y 
+de apoyo que es necesario para reducir al máximo las inhibiciones y obstáculos 
+que a menudo se interponen a la práctica de la pronunciación.
 
+</br> 
 
+## Material didáctico
 
-# Acerca de la asignatura
+### Programa de la asignatura
 
-El objetivo primordial de este curso consiste en ayudar al hablante nativo de inglés a mejorar su 
-pronunciación del español. Se intentará cumplir el mencionado objetivo creando conciencia en el 
-estudiante de cómo funciona el sistema fonológico del español a varios niveles: a través de un 
-mejor entendimiento de los conceptos fonéticos y fonológicos relevantes, de la aplicación de 
-dichos conceptos mediante ejercicios de transcripción escrita y producción oral y del 
-reconocimiento de rasgos fonéticos y fonológicos en el español hablado, todo ello sin olvidar el 
-importante papel desempeñado por la variación dialectal. El curso proporciona al estudiante el 
-ambiente relajado y de apoyo que es necesario para reducir al máximo las inhibiciones y 
-obstáculos que a menudo se interponen a la práctica de la pronunciación.
+Haz click [aquí](http://www.jvcasillas.com/fonetica_fi_f2015/slides/00_programa/index.html) para consultar el programa de la asignatura. Para una versión descargable, 
+haz click [aquí](http://www.jvcasillas.com/fonetica_fi_f2015/libraries/assets/programa/index.pdf).
 
-----
+</br> 
 
+### Temario
 
+Nota: el siguiente temario es provisional. El objetivo es proporcionar una 
+visión de conjunto de los temas a tratar y de las fechas aproximadas. A medida 
+que avancemos en el curso, iremos proporcionando detalles y fechas más exactas 
+más adecuadas al ritmo de la clase.
 
+|   Semana  |    Fecha     |                         Temas                         |
+| :-------- | :----------- | :---------------------------------------------------- |
+| Semana 1  | 08/09, 10/09 | Intro al curso. Grabaciones                           |
+| Semana 2  | 15/09, 17/09 | La sílaba. Diptongos. Hiatos.                         |
+| Semana 2  | 22/09, 24/09 | Consonantes [ʝ] y [w]. Diptongos y semivocales.       |
+| Semana 3  | 29/09, 01/10 | Sílabas, vocales y ritmo. Vocales en contacto. Schwa. |
+| Semana 4  | 06/10, 08/10 | Prueba 1, Fonética articulatoria: vocales.            |
+| Semana 5  | 13/10, 15/10 | Fonética articulatoria: consonantes.                  |
+| Semana 6  | 20/10, 22/10 | El fonema. Transcripción fonética.                    |
+| Semana 7  | 27/10, 29/10 | Prueba 2, Oclusivas sordas, africadas.                |
+| Semana 8  | 03/11, 05/11 | Obstruyentes sonoras /b, d, g/ y /ʝ/                  |
+| Semana 9  | 10/11, 12/11 | Fricativas: /f, s, x/                                 |
+| Semana 10 | 17/11, 19/11 | Nasales y laterales                                   |
+| Semana 11 | 24/11, 26/11 | Prueba 3, Vibrantes. La entonación                    |
+| Semana 12 | 01/12, 03/12 | El español penínsular y el español americano          |
+| Semana 13 | 08/12, 10/12 | El español de EEUU. Grabaciones.                      |
+| Semana 14 | 15/12        | Prueba 4                                              |
 
+</br> 
 
-
-
-# Material didáctico
-
-## Programa de la asignatura
-
-Haz click [aquí](http://www.jvcasillas.com/fonetica_fi_f2015/slides/00_programa/index.html) para consultar el programa de la asignatura. Para una 
-versión descargable, haz click [aquí](http://www.jvcasillas.com/fonetica_fi_f2015/libraries/assets/programa/index.pdf).
-
-## Agenda
-
-- agenda aqui
-
-----
-
-
-
-
-
-
-# Presentaciones
+## Presentaciones
 
 ```{r echo = F, results = 'asis'}
 slides = dir('slides', full = TRUE)
@@ -64,31 +73,24 @@ links = paste0("- ",
 )
 last <- length(links)
 last2 <- length(links) - 1
-writeLines(links[-c(1, last, last2)])
+writeLines(links[-c(1, 2, last, last2)])
 ```
 
+</br> 
 
 
+## Misc
 
-
-
-----
-
-
-
-
-
-
-# Misc
-
-## Enlaces
+### Enlaces
 
 - Los sonidos del habla - Universidad de Iowa ([inglés](http://soundsofspeech.uiowa.edu/english/english.html), [español](http://soundsofspeech.uiowa.edu/spanish/spanish.html))
 - [Mi página web personal](www.jvcasillas.com)
 
-## Artículos
+</br> 
 
-- aqui
+### Artículos
+
+- ih
 
 
 
