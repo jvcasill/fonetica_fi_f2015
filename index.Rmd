@@ -51,13 +51,18 @@ versión descargable, haz click [aquí]().
 
 ```{r echo = F, results = 'asis'}
 slides = dir('slides', full = TRUE)
-links = paste0(seq_along(slides), ". ", 
-  "[Slides: ", basename(slides), "]", "(", slides, "/index.html)"
+links = paste0("- ", 
+  "[", basename(slides), "]", "(", slides, "/index.html)"
 )
 last <- length(links)
 last2 <- length(links) - 1
-writeLines(links[-c(last, last2)])
+writeLines(links[-c(1, last, last2)])
 ```
+
+
+
+
+
 
 ----
 

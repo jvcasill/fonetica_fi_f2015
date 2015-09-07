@@ -1,6 +1,6 @@
 html_document:
   self_contained: false
-  theme: flatly
+  theme: cosmo
   highlight: textmate
   mathjax: null
   toc_depth: 2
