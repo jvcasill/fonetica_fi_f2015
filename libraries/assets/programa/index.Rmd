@@ -1,7 +1,7 @@
 ---
 title    : Fonética y español oral
-subtitle : Programa
-author   : Joseph Casillas
+subtitle : 
+author   : 
 header-includes:
    - \usepackage{tipa}
 output: 
@@ -14,7 +14,7 @@ output:
 Otoño 2015  
 Martes y jueves 10:30 – 12:00 am  
 Lugar:  
-Instructor: Joseph Casillas  
+Instructor: Joseph V. Casillas  
 
 Despacho: 1  
 Horas de oficina: martes y jueves de 12 a 13 y mediante cita  
