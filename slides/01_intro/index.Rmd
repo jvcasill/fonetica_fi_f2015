@@ -174,13 +174,13 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 > - Desarrollar y controlar las estructuras básicas de la fonética/fonología 
 española
 
-> - Reconocer y aprecial la diversidad lingüística del mundo hispánico
+> - Reconocer y apreciar la diversidad lingüística del mundo hispánico
 
 > - Preparación para seguir desarrollando L2 en el futuro
 
 > - ¿Cuáles son algunos de vuestros objetivos para:
 	- este semestre?
-	- está clase?
+	- esta clase?
 
 ---
 
@@ -194,7 +194,7 @@ española
 
 ## Algunas sugerencias
 
-> - Hablad siempre español 
+> - Hablad siempre en español 
 > - Haced muchas preguntas. 
 > - No tengáis miedo de hacer errores; lo que importa es la comunicación. 
 > - Pedid ayuda cuando estéis confundidos/as.
