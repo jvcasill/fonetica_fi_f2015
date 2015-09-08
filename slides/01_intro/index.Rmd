@@ -156,9 +156,11 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 > - ¿Qué vais a aprender?
 
+> - Sugerencias para tener éxito.
+
 > - ¿Cómo lo vamos a hacer? El programa.
 
-> - Sugerencias para tener éxito.
+> - Introducción a la lingüística
 
 ---
 
@@ -169,30 +171,16 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
   <img width="200" src="../../libraries/assets/img/objetivos1.jpg">
 </div>
 
-> - Desarrollar y controlar las estructuras básicas de gramática
+> - Desarrollar y controlar las estructuras básicas de la fonética/fonología 
+española
 
-> - Ampliar el vocabuario
+> - Reconocer y aprecial la diversidad lingüística del mundo hispánico
 
-> - Consolidar la habilidad de negociar situaciones básicas en español dentro de un contexto cultural 
+> - Preparación para seguir desarrollando L2 en el futuro
 
-> - Preparación para estudiar la lengua independientemente
-
----
-
-## Objetivos
-
-<div style="float: right">
-  <img width="150" src="../../libraries/assets/img/fill.png">
-  <img width="300" src="../../libraries/assets/img/objetivos2.jpg">
-</div>
-
-> - describir experiencias de la vida diaria (rutinas, actividades, etc.)
-> - describir personas (familia, amigos, etc.) y lugares
-> - narrar eventos en los tiempos del presente y del futuro
-> - describir y reflexionar sobre los contrastes culturales
-> - hacer preguntas para solicitar información 
-> - presentar a la clase temas investigados y contestar preguntas
-> - dar instrucciones y direcciones
+> - ¿Cuáles son algunos de vuestros objetivos para:
+	- este semestre?
+	- está clase?
 
 ---
 
@@ -206,26 +194,25 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ## Algunas sugerencias
 
-> - Habla siempre español 
-> - Haz muchas preguntas. 
-> - No tengas miedo de hacer errores; lo que importa es la comunicación. 
-> - Pide ayuda cuando estés confundido/a.
-> - Ven a clase con la tarea preparada. 
-> - No asumas nada, pídele al profesor que confirme las expectativas. 
-> - Participa activamente en clase; procura hablar por lo menos 10 minutos en cada clase. 
+> - Hablad siempre español 
+> - Haced muchas preguntas. 
+> - No tengáis miedo de hacer errores; lo que importa es la comunicación. 
+> - Pedid ayuda cuando estéis confundidos/as.
+> - Venid a clase con la tarea preparada. 
+> - No asumáis nada, pedidle al profesor que confirme las expectativas. 
+> - Participad activamente en clase
 
 ---
 
 ## Más sugerencias
 
-> - Lee mucho en español. La lectura es muy buena para desarrollar la producción oral. 
-> - Escucha la radio en español. 
-> - Escucha música en español. 
-> - Ve a todas las películas de la escuela española. 
-> - **Participa en muchas actividades co-curriculares.**
-> - Habla con otros profesores y con estudiantes de todos los niveles.
-> - Estudiar (pero ¡no demasiado!)
-> - ¡Diviértete!
+> - Leed mucho en voz alta. La lectura es buena para desarrollar la producción oral. 
+> - Escuchad la radio en español. 
+> - Escuchad música en español. 
+> - **Participad en muchas actividades fuera de clase**
+> - Hablad con otros profesores y con estudiantes de todos los niveles.
+> - Estudiad (pero ¡no demasiado!)
+> - ¡Divertiros!
 
 ---
 
