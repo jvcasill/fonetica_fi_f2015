@@ -68,7 +68,7 @@ obstáculos que a menudo se interponen a la práctica de la pronunciación.
 Puesto que la mayoría de los ejercicios de transcripción y de producción/práctica oral se harán 
 EN CLASE, es esencial para obtener una buena nota en el curso que el estudiante asista 
 regularmente a clase y que participe activamente en la misma. Los conceptos y conocimientos 
-impartidos no se prestan a ser adquiridos meramente através de la lectura (independientemente 
+impartidos no se prestan a ser adquiridos meramente a través de la lectura (independientemente 
 del número de horas que se le dediquen). El repaso y la práctica constantes y regulares son 
 absolutamente necesarios. Cuando un estudiante falta a clase, no puede realizar la práctica 
 requerida para la adquisición de la fonología de la lengua y por lo tanto no obtendrá una buena 
@@ -107,12 +107,11 @@ prueba será un cero.]
 
 |                                      |     |
 | :----------------------------------- | :-- |
-| Tareas (incluyen pop quizes)         | 10% |
-| Preparación, participación y actitud | 10% |
-| Pruebas                              | 40% |
-| Grabación (incluyendo cita)          | 10% |
-| Presentación vídeo                   | 10% |
-| Examen final (oral)                  | 20% |
+| Preparación, participación y actitud | 15% |
+| Tareas/pruebitas                     | 10% |
+| Grabación                            | 15% |
+| Pruebas                              | 60% |
+
 
 ---
 
@@ -122,14 +121,7 @@ Cada estudiante deberá preocuparse por mantener el contacto (teléfono, email, 
 menos otras 2 personas de la clase, ya que es responsabilidad del propio estudiante entregar 
 a tiempo la tarea (ya sea mediante un compañero o en persona), y también enterarse de la 
 tarea asignada para la siguiente clase en caso de ausencia. Recuerda que si faltas a clase, 
-TÚ ERES EL ÚNICO RESPONSABLE de recuperar el trabajo. El profesor está dispuesto a ayudarte 
-durante horas de oficina y a otras horas, siempre que su horario lo permita, pero la 
-responsabilidad es TUYA. TÚ eres el que debe iniciar el proceso de pedir ayuda (ya sea la 
-del profesor o la de tus compañeros) para ponerte al día.  
-
-**La tareas asignadas deben ser corregidas por el estudiante usando las hojas de soluciones 
-que vienen en el libro (también en D2l), con tinta de otro color y tomando nota de los 
-errores que no se entiendan, para que el profesor pueda explicarlos en la misma tarea.**
+TÚ ERES EL ÚNICO RESPONSABLE de recuperar el trabajo. 
 
 ---
 
@@ -154,7 +146,7 @@ participación dependerá de ello.
 
 ## Pruebas
 
-Haremos cuatro pruebas (de unos 45 m) durante el semestre. Cada una de ellas cubrirá todo el 
+Haremos cuatro pruebas durante el semestre. Cada una de ellas cubrirá todo el 
 material visto a partir de la última prueba, lo que no quiere decir que se vaya a excluir el 
 contenido tratado en pruebas anteriores. Esto es absolutamente necesario, ya que los conceptos 
 y conocimientos de este curso dependen unos de otros y son imposibles de tratar aisladamente. 
@@ -169,28 +161,10 @@ entre el resto de las pruebas.
 
 ## Grabación
 
-Se asignará unas tareas de grabación durante el semestre. El estudiante tendrá que hacer una 
-grabación de audio de la lectura de varios ejercicios y/o de una conversación. La grabación 
-se entregará por medio del Dropbox de D2l. Cada estudiante deberá hacer al menos una cita con 
+Se hará una grabación al principio y al final del semestre. Consistirá en la lectura de varias palabras/frases/párrafos. La grabación 
+se hará en clase. Es buena idea hacer al menos una cita con 
 el profesor para obtener comentarios y sugerencias para mejorar su pronunciación en base a 
 esta grabación.
-
----
-
-## Video y presentación
-
-Cada estudiante debe escoger un video corto (3-4 minutos) de anuncio o canción para niños 
-disponible en Internet y preparar su presentación en clase. La presentación consistirá en lo 
-siguiente: 
-
-1. Preparar el guión del diálogo/letra del video y un ejercicio de pronunciación basado en el 
-vídeo.
-2. Estar listo para hacer comentarios/ contestar preguntas sobre el vídeo.
-
-Este trabajo puede ser individual o en pareja. El estudiante encargado de la presentación debe 
-enviar al profesor el enlace del video seleccionado a más tardar dos días antes del día en que 
-se va a presentar. El estudiante puede solicitar la ayuda del profesor con la preparación pero 
-debe de hacerlo también a más tardar dos días antes de la presentación.
 
 ---
 
@@ -198,33 +172,23 @@ debe de hacerlo también a más tardar dos días antes de la presentación.
 
 El examen final tendrá lugar el último día de la sesión. El objetivo es tener una forma de 
 evaluación que permita ver cómo ha aplicado el alumno a su español los conceptos aprendidos 
-en el curso. Se proveerán más detalles más adelante en el semestre.
+en el curso. Es decir, incluirá todo el material visto a lo largo del semestre. No obstante, el valor es igual al de todas las demás pruebas (15% de la nota final).
 
 ---
 
-## Code of Academic Integrity
+## Plagio
 
-The instructor and the Program Director will initiate an academic integrity case against students 
-suspected of cheating, plagiarizing, or aiding others in dishonest academic behavior. Students are 
-responsible for reading and understanding the Code of Academic Integrity, please refer to:  
+Todo material (texto e ideas) que viene de fuentes secundarias (bibliografía) que se utilice en un texto o proyecto preparado por el estudiante debe estar documentado según las normas del MLA. La falta de referencia al material citado o parafraseado se considerará plagio. Estos casos serán reportados al Consejo Universitario y tendrán como consecuencia una “F” en el curso.
 
 http://studpubs.web.arizona.edu/policies/cacaint.htm.  
-
-Examples of academic dishonesty include, but are not limited to, plagiarism, cheating, and aiding 
-and abetting dishonesty. If the instructor suspects that a Code of Academic Violation has occurred, 
-she/he in accordance with the Program Director shall impose any one of the following or a 
-combination of the following sanctions: (1) Loss of credit for work involved, (2) Reduction in 
-grade for the entire course, (3) Failing grade, (4) Disciplinary probation. For policies against 
-threatening behavior by students, please visit:  
 
 http://policy.web.arizona.edu/-policy/threaten.shtml.
 
 ---
 
-## Disability
+## Diversidad
 
-Those students who are registered with the Disability Resource Center must submit appropriate 
-documentation to the instructor if they are requesting reasonable accommodations. Please refer to:  
+Los materiales y textos usados en esta clase han sido escogidos con criterio y fines estrictamente pedagógicos. Dichos criterios están de acuerdo con los objetivos pedagógicos de esta clase en particular y con los principios de diversidad de la Universidad de Arizona. Los contenidos expresados en estos materiales no reflejan necesariamente la opinión de este instructor y han sido seleccionados para ser analizados críticamente. En el caso de que un estudiante se sienta ofendido por el contenido de este material pedagógico, por favor, hágamelo saber inmediatamente. Escucharé personalmente sus opiniones, comentarios y sugerencias. De esta manera, podremos ponernos de acuerdo acerca de cómo proceder en este asunto. 
 
 http://drc.arizona.edu/instructor/svllabusstatement.shtml.
 
