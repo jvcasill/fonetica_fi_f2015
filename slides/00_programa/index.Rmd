@@ -282,6 +282,15 @@ proporcionando detalles y fechas más exactas más adecuadas al ritmo de la clas
 
 ---
 
+## La pragmática
+
+- **La pragmática**: el estudio del lenguaje en su relación con los usuarios y las circunstancias de la comunicación.
+
+<div align="center">
+  <img width="400" src="./assets/img/semantica.jpg">
+</div>
+
+---
 ## La sociolingüística
 
 - **La sociolingüística**: la lengua en la sociedad y cómo varía según diferentes 
