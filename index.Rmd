@@ -8,7 +8,7 @@ github      : {user: jvcasill, repo: fonetica_fi_f2015, branch: gh-pages}
 
 #### *Horario: martes y jueves, 10:30 - 12:00*
 
-#### *Lugar: *
+#### *Lugar: Aula 2, Jorge Guillén*
 
 ----
 
