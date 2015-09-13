@@ -39,6 +39,14 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ---
 
+[https://youtu.be/fSut6LvwrnU](https://youtu.be/fSut6LvwrnU)
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fSut6LvwrnU" frameborder="0" allowfullscreen></iframe>
+</div>
+
+---
+
 ## Los grafemas, los dígrafos y los fonemas
 
 >- **Los grafemas**: las letras del alfabeto, lo que usamos para escribir.
