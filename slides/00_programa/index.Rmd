@@ -304,14 +304,17 @@ factores sociales (la edad, la clase social, el nivel de educación, etc.)
 
 ---
 
-</br>
+[https://youtu.be/_x4OpMoDADI](https://youtu.be/_x4OpMoDADI)
 
 <div align="center">
-  <video width="550" allowfullscreen controls>
-    <source src="../../libraries/assets/videos/monologo.mov" type="video/mp4">
-    <source src="../../libraries/assets/videos/monologo.ogg" type="video/ogg">
-  </video>
+  <!-- <video width="550" allowfullscreen controls> -->
+    <!-- <source src="../../libraries/assets/videos/monologo.mov" type="video/mp4"> -->
+    <!-- <source src="../../libraries/assets/videos/monologo.ogg" type="video/ogg"> -->
+  <!-- </video> -->
+  <iframe width="420" height="315" src="https://www.youtube.com/embed/_x4OpMoDADI" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
 
 ---
 
@@ -376,12 +379,13 @@ usan para distinguir significados, su distribución en la lengua y sus relacione
 
 ---
 
-</br>
+[German coast guard](https://youtu.be/0MUsVcYhERY?list=PLI4OB8ApJgKLjLwqd3wr-Jaqkor7K-Kgi)
 
 <div align="center">
-  <video width="550" allowfullscreen controls>
-    <source src="../../libraries/assets/videos/why.mpg" type="video/mp4">
-    <source src="../../libraries/assets/videos/why.ogg" type="video/ogg">
-  </video>
+  <!-- <video width="550" allowfullscreen controls> -->
+    <!-- <source src="../../libraries/assets/videos/why.mpg" type="video/mp4"> -->
+    <!-- <source src="../../libraries/assets/videos/why.ogg" type="video/ogg"> -->
+  <!-- </video> -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0MUsVcYhERY?list=PLI4OB8ApJgKLjLwqd3wr-Jaqkor7K-Kgi" frameborder="0" allowfullscreen></iframe>
 </div>
 
