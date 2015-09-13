@@ -48,19 +48,19 @@ más adecuadas al ritmo de la clase.
 | :-------- | :----------- | :---------------------------------------------------- |
 | Semana 1  | 08/09, 10/09 | Intro al curso. Grabaciones                           |
 | Semana 2  | 15/09, 17/09 | La sílaba. Diptongos. Hiatos.                         |
-| Semana 2  | 22/09, 24/09 | Consonantes [ʝ] y [w]. Diptongos y semivocales.       |
-| Semana 3  | 29/09, 01/10 | Sílabas, vocales y ritmo. Vocales en contacto. Schwa. |
-| Semana 4  | 06/10, 08/10 | Prueba 1, Fonética articulatoria: vocales.            |
-| Semana 5  | 13/10, 15/10 | Fonética articulatoria: consonantes.                  |
-| Semana 6  | 20/10, 22/10 | El fonema. Transcripción fonética.                    |
-| Semana 7  | 27/10, 29/10 | Prueba 2, Oclusivas sordas, africadas.                |
-| Semana 8  | 03/11, 05/11 | Obstruyentes sonoras /b, d, g/ y /ʝ/                  |
-| Semana 9  | 10/11, 12/11 | Fricativas: /f, s, x/                                 |
-| Semana 10 | 17/11, 19/11 | Nasales y laterales                                   |
-| Semana 11 | 24/11, 26/11 | Prueba 3, Vibrantes. La entonación                    |
-| Semana 12 | 01/12, 03/12 | El español penínsular y el español americano          |
-| Semana 13 | 08/12, 10/12 | El español de EEUU. Grabaciones.                      |
-| Semana 14 | 15/12        | Prueba 4                                              |
+| Semana 3  | 22/09, 24/09 | Consonantes [ʝ] y [w]. Diptongos y semivocales.       |
+| Semana 4  | 29/09, 01/10 | Sílabas, vocales y ritmo. Vocales en contacto. Schwa. |
+| Semana 5  | 06/10, 08/10 | Prueba 1, Fonética articulatoria: vocales.            |
+| Semana 6  | 13/10, 15/10 | Fonética articulatoria: consonantes.                  |
+| Semana 7  | 20/10, 22/10 | El fonema. Transcripción fonética.                    |
+| Semana 8  | 27/10, 29/10 | Prueba 2, Oclusivas sordas, africadas.                |
+| Semana 9  | 03/11, 05/11 | Obstruyentes sonoras /b, d, g/ y /ʝ/                  |
+| Semana 10 | 10/11, 12/11 | Fricativas: /f, s, x/                                 |
+| Semana 11 | 17/11, 19/11 | Nasales y laterales                                   |
+| Semana 12 | 24/11, 26/11 | Prueba 3, Vibrantes. La entonación                    |
+| Semana 13 | 01/12, 03/12 | El español penínsular y el español americano          |
+| Semana 14 | 08/12, 10/12 | El español de EEUU. Grabaciones.                      |
+| Semana 15 | 15/12        | Prueba 4                                              |
 
 </br> 
 
