@@ -34,7 +34,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## Las ramas de la lingüística
 
 <div align="center">
-  <img width="800" src="./assets/img/ling.pdf">
+  <img width="800" src="./assets/img/ling.png">
 </div>
 
 ---
@@ -50,23 +50,23 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## Los grafemas, los dígrafos y los fonemas
 
 >- **Los grafemas**: las letras del alfabeto, lo que usamos para escribir.
+	- ej. "c", "l", "r"
 - **Los dígrafos**: la combinación de dos grafemas para representar un sólo sonido.
-	- ej. “c”, “l”, “r”
-	- ej. “ch”, “ll”, “rr”
+	- ej. "ch", "ll", "rr"
 
 ---
 
 ## Los grafemas, los dígrafos y los fonemas
 
 - **Los grafemas**: las letras del alfabeto, lo que usamos para escribir.
+  - ej. "c", "l", "r"
 - **Los dígrafos**: la combinación de dos grafemas para representar un sólo sonido. 
-  - ej. “c”, “l”, “r”
-  - ej. “ch”, “ll”, “rr”
+  - ej. "ch", "ll", "rr"
 
 </br>
 
 <div align="center">
-  <img width="350" src="./assets/img/digrafo.pdf">
+  <img width="350" src="./assets/img/digrafo.png">
 </div>
 
 
@@ -100,9 +100,10 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 - En la fonética, los grafemas y los dígrafos se escriben entre comillas
 - En cambio, los fonemas se escriben entre barras
 
-<div align="center">
-  <img width="200" src="./assets/img/ejA.pdf">
-</div>
+
+### Ej. 
+
+- "a" ---> /a/
 
 --- .segue bg:grey
 
@@ -133,7 +134,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 </br>
 
 <div align="center">
-  <img width="400" src="./assets/img/cvcv0.pdf">
+  <img width="400" src="./assets/img/cvcv0.png">
 </div>
 
 ---
@@ -141,7 +142,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## El silabeo
 
 <div align="center">
-  <img width="800" src="./assets/img/cvcv1.pdf">
+  <img width="800" src="./assets/img/cvcv1.png">
 </div>
 
 ---
@@ -161,7 +162,7 @@ Sin embargo, sabemos que existen muchas otras estructuras silábicas en español
 
 ## El silabeo
 
-Sin embargo, sabemos que existen muchas otras estructuras silábicas en español...\\
+Sin embargo, sabemos que existen muchas otras estructuras silábicas en español...
 
 |          |         |
 | :------- | :------ |
@@ -179,7 +180,7 @@ Sin embargo, sabemos que existen muchas otras estructuras silábicas en español
 ## El núcleo vocálico
 
 <div align="center">
-  <img width="700" src="./assets/img/1.pdf">
+  <img width="700" src="./assets/img/1.png">
 </div>
 
 ---
@@ -187,7 +188,7 @@ Sin embargo, sabemos que existen muchas otras estructuras silábicas en español
 ## El núcleo vocálico
 
 <div align="center">
-  <img width="700" src="./assets/img/2.pdf">
+  <img width="700" src="./assets/img/2.png">
 </div>
 
 ---
@@ -195,7 +196,7 @@ Sin embargo, sabemos que existen muchas otras estructuras silábicas en español
 ## El núcleo vocálico
 
 <div align="center">
-  <img width="700" src="./assets/img/3.pdf">
+  <img width="700" src="./assets/img/3.png">
 </div>
 
 ---
@@ -203,7 +204,7 @@ Sin embargo, sabemos que existen muchas otras estructuras silábicas en español
 ## El núcleo vocálico
 
 <div align="center">
-  <img width="700" src="./assets/img/4.pdf">
+  <img width="700" src="./assets/img/4.png">
 </div>
 
 ---
@@ -221,7 +222,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Las combinaciones permitidas
 
 <div align="center">
-  <img width="600" src="./assets/img/gc.pdf">
+  <img width="600" src="./assets/img/gc.png">
 </div>
 
 ---
@@ -237,7 +238,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## A practicar...
 
 <div style="float:right">
-  <img width="200" src="./assets/img/gc.pdf">
+  <img width="200" src="./assets/img/gc.png">
 </div>
 
 > - leer
@@ -276,7 +277,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 - in.fluen.cia
 
 <div style="float:right">
-  <img width="150" src="./assets/img/gc.pdf">
+  <img width="150" src="./assets/img/gc.png">
 </div>
 
 --- .segue bg:grey
@@ -331,7 +332,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Clasificación de las vocales
 
 <div align="center">
-  <img width="600" src="./assets/img/fuertes.pdf">
+  <img width="600" src="./assets/img/fuertes.png">
 </div>
 
 ---
@@ -339,7 +340,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Clasificación de las vocales
 
 <div align="center">
-  <img width="700" src="./assets/img/apertura.pdf">
+  <img width="700" src="./assets/img/apertura.png">
 </div>
 
 ---
@@ -347,7 +348,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Clasificación de las vocales
 
 <div align="center">
-  <img width="700" src="./assets/img/cerrada-abierta.pdf">
+  <img width="700" src="./assets/img/cerrada-abierta.png">
 </div>
 
 </br>
@@ -457,7 +458,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Las vocales
 
 <div align="center">
-  <img width="700" src="./assets/img/lasvocales.pdf">
+  <img width="700" src="./assets/img/lasvocales.png">
 </div>
 
 ---
@@ -465,7 +466,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Las vocales
 
 <div align="center">
-  <img width="700" src="./assets/img/vocaleslines.pdf">
+  <img width="700" src="./assets/img/vocaleslines.png">
 </div>
 
 ---
@@ -473,7 +474,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Las vocales
 
 <div align="center">
-  <img width="700" src="./assets/img/vocalesdebiles.pdf">
+  <img width="700" src="./assets/img/vocalesdebiles.png">
 </div>
 
 ---
@@ -481,7 +482,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Las vocales
 
 <div align="center">
-  <img width="700" src="./assets/img/debiles.pdf">
+  <img width="700" src="./assets/img/debiles.png">
 </div>
 
 ---
@@ -489,7 +490,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Las vocales
 
 <div align="center">
-  <img width="700" src="./assets/img/fuertes.pdf">
+  <img width="700" src="./assets/img/fuertes.png">
 </div>
 
 --- .segue bg:grey
@@ -513,7 +514,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 <div style="float:right">
   <img width="100" src="../../libraries/assets/img/fill.png">
-  <img width="300" src="./assets/img/fuertes.pdf">
+  <img width="300" src="./assets/img/fuertes.png">
 </div>
 
 - **Hiato** La secuencia de dos vocales seguidas que se separan en dos sílabas
@@ -540,12 +541,12 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ---
 
-## Para mañana...
+## Para la semana que viene...
 
 ### Estudiad:
 
-- los resúmenes de hoy
-- los resúmenes para mañana
+- los resúmenes de esta semana
+- puede que haya una prueba
 
 
 <!-- 
