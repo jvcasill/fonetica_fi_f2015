@@ -182,9 +182,15 @@ Sin embargo, sabemos que existen muchas otras estructuras silábicas en español
 | -cdvc-cv | tien-da |
 | -ccdv-cv | prue-ba |
 
-</br>
+---
 
->- ¿Cómo se forma una sílaba? 
+## El silabeo
+
+### ¿Cómo se forma una sílaba? 
+
+<div align="right">
+  <img width="350" src="../../libraries/assets/img/frustracion.jpg">
+</div>
 
 ---
 
