@@ -49,6 +49,17 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ## Los grafemas, los dígrafos y los fonemas
 
+### Considerad las siguientes preguntas...
+
+1. ¿Por qué a veces se considera la "y" una vocal? ¿Puedes pensar en otros ejemplos de vocales/consonantes que "cambian"?
+2. ¿En inglés hay más o menos vocales de lo que pensabas antes de ver el vídeo?
+3. ¿Cuál es la diferencia entre un sonido del habla y una "letra"?
+4. ¿Cuáles son más interesantes para la lingüística: las letras o los sonidos? ¿Por qué?
+
+---
+
+## Los grafemas, los dígrafos y los fonemas
+
 >- **Los grafemas**: las letras del alfabeto, lo que usamos para escribir.
 	- ej. "c", "l", "r"
 - **Los dígrafos**: la combinación de dos grafemas para representar un sólo sonido.
