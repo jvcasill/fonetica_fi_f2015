@@ -376,14 +376,14 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ## Los diptongos crecientes
 
-|     |              |             |     |
-| :-- | :----------- | :---------- | :-- |
-| ie  | ej. “sierra” | /si̯é.ra/   |     |
-| ia  | ej. “piano”  | /pi̯á.no/   |     |
-| io  | ej. “idiota” | /i.di̯ó.ta/ |     |
-| ue  | ej. “cuento” | /ku̯én.to/  |     |
-| ua  | ej. “cuadro” | /ku̯á.dro/  |     |
-| uo  | ej. “cuota”  | /ku̯ó.ta/   |     |
+| Grafemas |   Ejemplos   | Transcripción fonémica |
+| :------- | :----------- | :--------------------- |
+| ie       | ej. “sierra” | /si̯é.ra/              |
+| ia       | ej. “piano”  | /pi̯á.no/              |
+| io       | ej. “idiota” | /i.di̯ó.ta/            |
+| ue       | ej. “cuento” | /ku̯én.to/             |
+| ua       | ej. “cuadro” | /ku̯á.dro/             |
+| uo       | ej. “cuota”  | /ku̯ó.ta/              |
 
 </br>
 
@@ -395,14 +395,14 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ## Los diptongos decrecientes
 
-|       |                      |                         |
-| :---- | :------------------- | :---------------------- |
-| ei/ey | ej. “reina” “rey”    | /réi̯.na/ /rei̯/        |
-| ai/ay | ej. “traigo” “caray” | /trái̯.go/ /ka.rái̯/    |
-| oi/oy | ej. “oigo” “voy”     | /ói̯.go/ /boi̯/         |
-| eu    | ej. “deuda”          | /déu̯.da/               |
-| au    | ej. “jaula”          | /xáu̯.la/               |
-| ou    | ej. “genitourinario” | /xe.ni.tou̯.ri.ná.ri̯o/ |
+| Grafemas |       Ejemplos       |  Transcripción fonémica |
+| :------- | :------------------- | :---------------------- |
+| ei/ey    | ej. “reina” “rey”    | /réi̯.na/ /rei̯/        |
+| ai/ay    | ej. “traigo” “caray” | /trái̯.go/ /ka.rái̯/    |
+| oi/oy    | ej. “oigo” “voy”     | /ói̯.go/ /boi̯/         |
+| eu       | ej. “deuda”          | /déu̯.da/               |
+| au       | ej. “jaula”          | /xáu̯.la/               |
+| ou       | ej. “genitourinario” | /xe.ni.tou̯.ri.ná.ri̯o/ |
 
 </br>
 
@@ -414,10 +414,10 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ## Los diptongos acrecientes
 
-|       |                     |                                |
-| :---- | :------------------ | :----------------------------- |
-| iu    | ej. “ciudad”        | /si̯u.dád/ o /sju.dád/         |
-| ui/uy | ej. “buitre”, “muy” | /bu̯í.tre/ o /bwí.tre/, /mui̯/ |
+| Grafemas |       Ejemplos      |     Transcripción fonémica     |
+| :------- | :------------------ | :----------------------------- |
+| iu       | ej. “ciudad”        | /si̯u.dád/ o /sju.dád/         |
+| ui/uy    | ej. “buitre”, “muy” | /bu̯í.tre/ o /bwí.tre/, /mui̯/ |
 
 </br>
 
@@ -429,7 +429,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ## ¿Monoptongo o diptongo?
 
-### Transcribid las siguientes palabras y determinad si contienen un diptongo:
+### Silabificad las siguientes palabras y determinad si contienen un diptongo:
 
 1. aprueba
 1. belleza
@@ -442,11 +442,26 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 1. soberbio
 1. habitual
 
----
+--- &twocol
 
 ## ¿Monoptongo o diptongo?
 
 ### Transcribid las siguientes palabras y determinad si contienen un diptongo:
+
+*** {name: left}
+
+1. a.pru̯e.ba
+1. be.lle.za
+1. cu.bi̯er.to
+1. go.ber.nan.te
+1. de.vu̯el.to
+1. vol.ver
+1. a.ve.ri.gu̯ar
+1. cu̯e.va
+1. so.ber.bi̯o
+1. ha.bi.tu̯al
+
+*** {name: right}
 
 1. /a.pru̯é.ba/
 1. /be.ʝé.sa/
@@ -522,8 +537,10 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ### Ejemplos 
 
-- área /ˈa.ɾe.a/
-- héroe /ˈe.ɾo.e/
+| Palabra | Silabificación | Transcripción fonémica |
+| :------ | :------------- | :--------------------- |
+| área    | á.re.a         | /ˈa.ɾe.a/              |
+| héroe   | hé.ro.e        | /ˈe.ɾo.e/              |
 
 ---
 
@@ -538,8 +555,32 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ### Ejemplos 
 
-- área /ˈa.ɾe.a/
-- héroe /ˈe.ɾo.e/
+- área -> á.re.a
+- héroe -> hé.ro.e
+
+--- .segue bg:grey
+
+# Inglés vs. español
+
+---
+
+## Las vocales del inglés
+
+- eso 
+- esto 
+- otro
+
+---
+
+## Las vocales del español
+
+- sofi
+- sofi
+- sofi!
+
+--- .segue bg:grey
+
+# Respaso
 
 ---
 
@@ -547,7 +588,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ### Conceptos:
 
-- la lingüística
+- la lingüística y las distintas ramas
 - grafema/dígrafo vs. fonema
 - la sílaba
 	- composición (ataque, núcleo, coda)
@@ -555,6 +596,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 - monoptongos
 - diptongos (3 tipos)
 - hiatos 
+- diferencias entre el inglés y el español
 
 ---
 
