@@ -566,17 +566,89 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ## Las vocales del inglés
 
-- eso 
-- esto 
-- otro
+<div style="float:right">
+  <img width="300" src="./assets/img/vocales_ing1.gif">
+</div>
+
+>- Hay más vocales en inglés que en español
+- Suele haber diptongación hacia el final
+- Con frecuencia se reducen a [ə] en posición átona
+
+---
+
+<div align="center">
+  <img width="900" src="./assets/img/vowel_space.pdf">
+</div>
+
+---
+
+
+## Las vocales del español
+
+<div style="float:right">
+  <img width="300" src="./assets/img/tension1.jpg">
+</div>
+
+1. Son cortas
+2. Requieren MUCHA tensión.
+
+---
+
+## ¿Tensión?
+
+<div align="center">
+  <img width="400" src="./assets/img/tension2.jpg">
+  <img width="100" src="../../libraries/assets/img/fill.png">
+  <img width="300" src="./assets/img/tension3.jpg">
+</div>
 
 ---
 
 ## Las vocales del español
 
-- sofi
-- sofi
-- sofi!
+<div align="center">
+  <img width="700" src="./assets/img/vocales_esp.pdf">
+</div>
+
+---
+
+## Las vocales del español - /i/
+
+<div align="center">
+  <img width="500" src="./assets/img/vocal_i.jpg">
+</div>
+
+---
+
+## Las vocales del español - /e/
+
+<div align="center">
+  <img width="500" src="./assets/img/vocal_e.jpg">
+</div>
+
+---
+
+## Las vocales del español - /a/
+
+<div align="center">
+  <img width="500" src="./assets/img/vocal_a.jpg">
+</div>
+
+---
+
+## Las vocales del español - /o/
+
+<div align="center">
+  <img width="500" src="./assets/img/vocal_o.jpg">
+</div>
+
+---
+
+## Las vocales del español - /u/
+
+<div align="center">
+  <img width="500" src="./assets/img/vocal_u.jpg">
+</div>
 
 --- .segue bg:grey
 
@@ -596,7 +668,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 - monoptongos
 - diptongos (3 tipos)
 - hiatos 
-- diferencias entre el inglés y el español
+- diferencias entre el inglés y el español (vocales)
 
 ---
 
