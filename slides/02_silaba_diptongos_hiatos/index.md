@@ -309,8 +309,10 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ### Ejemplos
 
-- “casa” ===> /ˈka.sa/
-- “taburete” ===> /ta.bu.ˈre.te/
+|  Palabra   | Silabificación | Transcripción fonémica |
+| :--------- | :------------- | :--------------------- |
+| "casa"     | ca.sa          | /ˈka.sa/               |
+| "taburete" | ta.bu.re.te    | /ta.bu.ˈre.te/         |
 
 ---
 
@@ -320,8 +322,10 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 
 ### Ejemplos
 
-- “can**ción**”  “can.**ción**” ===>  /kan.**ˈsi̯on**/
-- “**puer**ta”   “**puer**.ta”  ===>  /**ˈpu̯er**.ta/
+|    Palabra    | Silabificación | Transcripción fonémica |
+| :------------ | :------------- | :--------------------- |
+| "can**ción**" | can.**ción**   | /kan.**ˈsi̯on**/       |
+| "**puer**ta"  | **puer**.ta    | /**ˈpu̯er**.ta/        |
 
 ---
 
