@@ -349,7 +349,38 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Clasificación de las vocales
 
 <div align="center">
-  <img width="600" src="./assets/img/fuertes.png">
+  <img width="700" src="./assets/img/lasvocales.png">
+</div>
+
+---
+
+## Clasificación de las vocales
+
+<div align="center">
+  <img width="700" src="./assets/img/vocaleslines.png">
+</div>
+
+---
+
+## Clasificación de las vocales
+
+<div align="center">
+  <img width="700" src="./assets/img/vocalesdebiles.png">
+</div>
+
+---
+
+## Clasificación de las vocales
+
+<div align="center">
+  <img width="700" src="./assets/img/debiles.png">
+</div>
+
+---
+## Clasificación de las vocales
+
+<div align="center">
+  <img width="700" src="./assets/img/fuertes.png">
 </div>
 
 ---
@@ -484,38 +515,6 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 </br>
 
 - Las deslizadas cuentan con una duración más corta. 
-
----
-
-## Las vocales
-
-<div align="center">
-  <img width="700" src="./assets/img/lasvocales.png">
-</div>
-
----
-
-## Las vocales
-
-<div align="center">
-  <img width="700" src="./assets/img/vocaleslines.png">
-</div>
-
----
-
-## Las vocales
-
-<div align="center">
-  <img width="700" src="./assets/img/vocalesdebiles.png">
-</div>
-
----
-
-## Las vocales
-
-<div align="center">
-  <img width="700" src="./assets/img/debiles.png">
-</div>
 
 ---
 
