@@ -13,6 +13,39 @@ knit        : slidify::knit2slides
 logo        : if.png
 biglogo     : ua.png
 url         : {lib: "../../libraries", assets: "../../libraries/assets"}
+--- &multitext
+
+## Pruebita
+
+Contesta las siguientes preguntas...
+
+1. En tus propias palabras, ¿qué es la fonética?
+2. ¿Qué es un dígrafo? Da un ejemplo.
+3. ¿Cuántos *grafemas* hay en el español?
+4. ¿Cuántos *fonemas* hay en la palabra: "hora"?
+5. La palabra "español" se silabifica **es**.**pa**.**ñol** y no **e**.**spa**.**ñol**. Explica por qué.
+
+*** .explanation
+
+1. <span class='answer'>Respuestas varían</span>
+2. <span class='answer'>La combinación de dos grafemas que representa un sonido diferente (ej. "c" + "h").</span>
+3. <span class='answer'>27</span>
+4. <span class='answer'>3 (/ˈo.ɾa/)</span>
+5. <span class='answer'>"sp" no es un grupo consonántico permitido en el arranque.</span>
+
+
+*** .hint
+
+Una pista
+
+<!-- ## Pruebita -->
+
+<!-- <div align="center">
+  <img width="700px" src="./assets/img/pruebita.pdf"></img>
+</div>
+ -->
+
+
 --- .segue bg:grey
 
 # Repaso
@@ -57,6 +90,10 @@ Dividir por sílabas las siguientes palabras...
 - España  
 - aplauso 
 
+</br>
+
+> - Ahora transcribidlas...
+
 *** {name: right}
 
 - ca.sa
@@ -68,36 +105,174 @@ Dividir por sílabas las siguientes palabras...
 - Es.pa.ña
 - a.plau.so
 
----  &multitext
+---
 
-## Pruebita
+## Repaso
 
-Contesta las siguientes preguntas...
+Dividir por sílabas las siguientes palabras...
 
-1. Explica en tus propias palabras qué es la fonética.
-2. ¿Qué es un dígrafo? Da un ejemplo.
-3. ¿Cuántos grafemas hay en el español?
-4. ¿Cuántos fonemas hay en la palabra: "hora"?
+| Palabra  | Silabificación | Transcripción fonémica |
+| :------- | :------------- | :--------------------- |
+| casa     | ca.sa          | /ˈka.sa/               |
+| calle    | ca.lle         | /ˈka.ʝe/               |
+| hacha    | ha.cha         | /ˈa.ʧa/                |
+| alto     | al.to          | /ˈal.to/               |
+| limpio   | lim.pio        | /ˈlim.pi̯o/            |
+| anécdota | a.néc.do.ta    | /a.ˈnek.do.ta/         |
+| España   | Es.pa.ña       | /es.ˈpa.ɲa/            |
+| aplauso  | a.plau.so      | /a.ˈplau̯.so/          |
 
-*** .explanation
 
-1. <span class='answer'>Respuestas aquí</span>
-2. <span class='answer'>Respuestas aquí</span>
-3. <span class='answer'>Respuestas aquí</span>
-4. <span class='answer'>Respuestas aquí</span>
 
-*** .hint
+--- .segue bg:grey
 
-Una pista
+# Correspondencia exclusiva
 
-<!-- ## Pruebita -->
+---
+
+## Correspondencia exclusiva
+
+### **Correspondencia exclusiva**: La relación entre el grafema y el fonema es 1:1. 
+
+> - Es decir, el grafema es representado por un sólo fonema y el fonema es respresentado por un sólo grafema.
+> - Hay 9 casos de correspondencia exclusiva en español.
+
+---
+
+## Correspondencia exclusiva
+
+|     | Grafema/Dígrafo | Fonema |
+| :-- | :-------------- | :----- |
+|     | "a"             | /a/    |
+|     | "e"             | /e/    |
+|     | "o"             | /o/    |
+|     | "ch"            | /ʧ/    |
+|     | "d"             | /d/    |
+|     | "f"             | /f/    |
+|     | "l"             | /l/    |
+|     | "p"             | /p/    |
+|     | "t"             | /t/    |
+
 
 <!-- <div align="center">
-  <img width="700px" src="./assets/img/pruebita.pdf"></img>
+  <img width="500px" src="./assets/img/correspondencia.pdf"></img>
+</div>
+ -->
+
+
+---
+
+## Correspondencia exclusiva
+
+|     | Grafema/Dígrafo |                                 | Fonema |
+| :-- | :-------------- | :------------------------------ | :----- |
+|     | "a"             | **⟵-----------------------⟶** | /a/    |
+|     | "e"             | **⟵-----------------------⟶** | /e/    |
+|     | "o"             | **⟵-----------------------⟶** | /o/    |
+|     | "ch"            | **⟵-----------------------⟶** | /ʧ/    |
+|     | "d"             | **⟵-----------------------⟶** | /d/    |
+|     | "f"             | **⟵-----------------------⟶** | /f/    |
+|     | "l"             | **⟵-----------------------⟶** | /l/    |
+|     | "p"             | **⟵-----------------------⟶** | /p/    |
+|     | "t"             | **⟵-----------------------⟶** | /t/    |
+
+<!-- <div align="center">
+  <img width="500px" src="./assets/img/correspondencia2.pdf"></img>
 </div>
  -->
 
 ---
+
+## Correspondencia exclusiva
+
+>- La correspondencia entre grafema/dígrafo y fonema no es exclusiva en todos los casos.
+- Dicho de otra manera, no siempre es una relación de 1:1  
+	- Ej. las 21 letras que quedan...
+- ¿Qué problemas puede crear este hecho?
+
+---
+
+## Correspondencia NO exclusiva
+
+</br>
+
+<div align="center">
+  <img width="600px" src="./assets/img/noexclusivaC.pdf"></img>
+</div>
+
+---
+
+## Correspondencia NO exclusiva
+
+</br>
+
+<div align="center">
+  <img width="600px" src="./assets/img/noexclusivaC2.pdf"></img>
+</div>
+
+### Ej. 
+
+- /k/: casa
+- /s/ o /θ/: cien
+
+---
+
+## Correspondencia NO exclusiva
+
+</br>
+
+<div align="center">
+  <img width="600px" src="./assets/img/noexclusiva.pdf"></img>
+</div>
+
+---
+
+## Correspondencia NO exclusiva
+
+</br>
+
+<div align="center">
+  <img width="600px" src="./assets/img/noexclusiva2.pdf"></img>
+</div>
+
+### Ej.
+
+- cabe (inf. *caber*): /ˈka.be/
+- cave (inf. *cavar*): /ˈka.be/
+
+---
+
+## Resumen - Tipos de correspondencia
+
+<div align="center">
+  <img width="700px" src="./assets/img/resumen.pdf"></img>
+</div>
+
+---
+
+## Tipos de correspondencia
+
+- En grupos de dos o tres pensad en otros ejemplos de correspondencia NO exclusiva. 
+- Puede ser de un grafema/dígrafo a varios fonemas o de varios grafemas a un fonema.
+
+> - Ej. 
+	- /k/ ⟶ "c", "k", "qu"
+	- "**c**asa", "**k**ilo", "**qu**e"
+
+--- .segue bg:grey
+
+
+
+
+
+
+
+
+
+# La letra "x"
+
+---
+
 
 ## La letra "x"
 
@@ -108,26 +283,57 @@ Una pista
 - texto
 - extra
 
----
+</br>
 
-## La letra "x"
-
-- ¿Cuántos sonidos escucháis para la letra "x"?
+>- ¿Cuántos sonidos escucháis para la letra "x"?
 - ¿Cuántos fonemas hay?
 
 ---
 
 ## La letra "x"
 
-- "x" ==> /ks/
+- "x" ⟶ /ks/
 - Son dos sonidos distintos
 
+### Según el contexto fónico, hay dos posibilidades:
+
+>1. o bien los dos sonidos pueden formar una coda compleja (/ks/) 
+>2. o bien el sonido fricativo (/s/) puede ir en el arranque de la siguiente sílaba (/k.s/)
 
 ---
 
 ## La letra "x"
 
-</br>
+- "x" ⟶ /ks/
+- Son dos sonidos distintos
+
+### Según el contexto fónico, hay dos posibilidades:
+
+1. o bien los dos sonidos pueden formar una coda compleja (/ks/) 
+2. o bien el sonido fricativo (/s/) puede ir en el arranque de la siguiente sílaba (/k.s/)
+
+### Transcribid las siguientes palabras...
+
+| Otrografía | Transcripción |
+| :--------- | :------------ |
+| examen     |               |
+| éxito      |               |
+| texto      |               |
+| extra      |               |
+
+---
+
+## La letra "x"
+
+- "x" ⟶ /ks/
+- Son dos sonidos distintos
+
+### Según el contexto fónico, hay dos posibilidades:
+
+1. o bien los dos sonidos pueden formar una coda compleja (/ks/) 
+2. o bien el sonido fricativo (/s/) puede ir en el arranque de la siguiente sílaba (/k.s/)
+
+### Transcribid las siguientes palabras...
 
 | Otrografía | Transcripción |
 | :--------- | :------------ |
@@ -138,11 +344,20 @@ Una pista
 
 --- .segue bg:grey
 
+
+
+
+
+
+
+
+
+
 # Semivocales y vocales
 
 ---
 
-## Semivocales y vocales
+## Las semivocales (deslizadas)
 
 ### [ i̯ ] - [ u̯ ]
 
@@ -153,11 +368,11 @@ Una pista
 
 ---
 
-## Semivocales y vocales
+## Las vocales
 
-### [ i̯ ] - [ u̯ ]
+### [i] - [u] ...(y las demás)
 
-- más largas que las vocales
+- más largas que las semivocales (deslizadas)
 - pueden ir solas
 - pueden comenzar una sílaba 
 - pueden llevar acento
@@ -189,6 +404,7 @@ Una pista
 ## [ʝ] y [w]
 
 - Son consonantes fricativas
+- También se denominan "semiconsonantes"
 - Siempre en el arranque 
 - Las semivocales no pueden ir en el arranque
 - Lo que tenemos en su lugar es [ʝ] y [w]
@@ -239,94 +455,13 @@ Una pista
 
 </br>
 
-| Sonido | Letra |    Ejemplo     |
-| :----- | :---- | :------------- |
-| [ʝ]    | "y"   | yo             |
-|        | "ll"  | calle          |
-|        | "i"   | hielo          |
-| [w]    | "w'"  | Hawaii, whisky |
-|        | "u'"  | huerta         |
-
---- .segue bg:grey
-
-# Correspondencia exclusiva
-
----
-
-## Correspondencia exclusiva
-
-### **Correspondencia exclusiva**: La relación entre el grafema y el fonema es 1:1. 
-
-> - Es decir, el grafema es representado por un sólo fonema y el fonema es respresentado por un sólo grafema.
-> - Hay 9 casos de correspondencia exclusiva en español.
-
----
-
-## Correspondencia exclusiva
-
-<div align="center">
-  <img width="500px" src="./assets/img/correspondencia.pdf"></img>
-</div>
-
----
-
-## Correspondencia exclusiva
-
-<div align="center">
-  <img width="500px" src="./assets/img/correspondencia2.pdf"></img>
-</div>
-
----
-
-## Correspondencia exclusiva
-
-- La correspondencia entre grafema/dígrafo y fonema no es exclusiva en todos los casos.
-- Dicho de otra manera, no siempre es una relación de 1:1 Ej. las 21 letras que quedan...
-
----
-
-## Correspondencia NO exclusiva
-
-<div align="center">
-  <img width="500px" src="./assets/img/noexclusivaC.pdf"></img>
-</div>
-
----
-
-## Correspondencia NO exclusiva
-
-<div align="center">
-  <img width="500px" src="./assets/img/noexclusivaC2.pdf"></img>
-</div>
-
----
-
-## Correspondencia NO exclusiva
-
-<div align="center">
-  <img width="500px" src="./assets/img/noexclusiva.pdf"></img>
-</div>
-
----
-
-## Correspondencia NO exclusiva
-
-<div align="center">
-  <img width="500px" src="./assets/img/noexclusiva2.pdf"></img>
-</div>
-
----
-
-## Resumen - Tipos de correspondencia
-
-<div align="center">
-  <img width="500px" src="./assets/img/resumen.pdf"></img>
-</div>
-
-
-
-
-
+| Sonido | Letra | Ejemplo | Transcripción fonémica |
+| :----- | :---- | :------ | :--------------------- |
+| [ʝ]    | "y"   | yo      | [ʝo]                   |
+|        | "ll"  | calle   | [ˈka.ʝe]               |
+|        | "i"   | hielo   | [ˈʝe.lo]               |
+| [w]    | "w'"  | whisky  | [ˈwis.ki]              |
+|        | "u'"  | huerta  | [ˈweɾ.ta]              |
 
 
 

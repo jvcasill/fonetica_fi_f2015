@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-This experiment was created using PsychoPy2 Experiment Builder (v1.82.01), Thu Sep 10 12:05:05 2015
+This experiment was created using PsychoPy2 Experiment Builder (v1.82.01), Thu Sep 17 11:42:13 2015
 If you publish work using this script please cite the relevant PsychoPy publications
   Peirce, JW (2007) PsychoPy - Psychophysics software in Python. Journal of Neuroscience Methods, 162(1-2), 8-13.
   Peirce, JW (2009) Generating stimuli for neuroscience using PsychoPy. Frontiers in Neuroinformatics, 2:10. doi: 10.3389/neuro.11.010.2008
@@ -33,7 +33,7 @@ filename = _thisDir + os.sep + 'data/%s_%s_%s' %(expInfo['participant'], expName
 # An ExperimentHandler isn't essential but helps with data saving
 thisExp = data.ExperimentHandler(name=expName, version='',
     extraInfo=expInfo, runtimeInfo=None,
-    originPath=u'/Users/casillas/academia/teaching/ua/ua_spanish_340/fonetica_fi_f2015/libraries/assets/grabaciones/psychopy/produccion.psyexp',
+    originPath='/Users/casillas/academia/teaching/ua/ua_spanish_340/fonetica_fi_f2015/libraries/assets/grabaciones/psychopy/produccion.psyexp',
     savePickle=True, saveWideText=True,
     dataFileName=filename)
 #save a log file for detail verbose info
@@ -159,7 +159,7 @@ routineTimer.reset()
 
 # set up handler to look after randomisation of conditions etc
 trials = data.TrialHandler(nReps=1, method='sequential', 
-    extraInfo=expInfo, originPath=u'/Users/casillas/academia/teaching/ua/ua_spanish_340/fonetica_fi_f2015/libraries/assets/grabaciones/psychopy/produccion.psyexp',
+    extraInfo=expInfo, originPath='/Users/casillas/academia/teaching/ua/ua_spanish_340/fonetica_fi_f2015/libraries/assets/grabaciones/psychopy/produccion.psyexp',
     trialList=data.importConditions('list.xlsx'),
     seed=None, name='trials')
 thisExp.addLoop(trials)  # add the loop to the experiment
