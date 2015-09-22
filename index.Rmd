@@ -83,6 +83,7 @@ writeLines(links[-c(1, 2, last, last2)])
 
 ### Enlaces
 
+- [Phonetics flash cards](https://quizlet.com/93374714/fonetica-flash-cards/)
 - Los sonidos del habla - Universidad de Iowa ([inglés](http://soundsofspeech.uiowa.edu/english/english.html), [español](http://soundsofspeech.uiowa.edu/spanish/spanish.html))
 - [Mi página web personal](www.jvcasillas.com)
 - [A course in phonetics](http://linguistics.berkeley.edu/acip/)
