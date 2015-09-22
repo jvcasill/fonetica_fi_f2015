@@ -63,7 +63,7 @@ Una pista
 ### Las vocales
 
 - ¿Cuáles son algunas de las características de las vocales del inglés? ¿Del español?
-- ¿Qué recomendaciones le darías a un amigo para que mejorase su pronunciación?
+- ¿Qué le recomendarías a un amigo para que mejorase su pronunciación?
 
 ---
 
