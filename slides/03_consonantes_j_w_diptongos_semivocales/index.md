@@ -15,14 +15,12 @@ biglogo     : ua.png
 url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 --- &multitext
 
-## Pruebita
-
-Contesta las siguientes preguntas...
+## Pruebita - Contesta las siguientes preguntas...
 
 1. En tus propias palabras, ¿qué es la fonética?
 2. ¿Qué es un dígrafo? Da un ejemplo.
 3. ¿Cuántos *grafemas* hay en el español?
-4. ¿Cuántos *fonemas* hay en la palabra: "hora"?
+4. ¿Qué le recomendarías a un amigo para que mejorase su pronunciación de las vocales en español?
 5. La palabra "español" se silabifica **es**.**pa**.**ñol** y no **e**.**spa**.**ñol**. Explica por qué.
 
 *** .explanation
@@ -30,7 +28,7 @@ Contesta las siguientes preguntas...
 1. <span class='answer'>Respuestas varían</span>
 2. <span class='answer'>La combinación de dos grafemas que representa un sonido diferente (ej. "c" + "h").</span>
 3. <span class='answer'>27</span>
-4. <span class='answer'>3 (/ˈo.ɾa/)</span>
+4. <span class='answer'>Vocales cortas y tensas.</span>
 5. <span class='answer'>"sp" no es un grupo consonántico permitido en el arranque.</span>
 
 
@@ -59,6 +57,8 @@ Una pista
 - ¿Qué es una sílaba? ¿De qué está compuesta?
 - ¿Qué es un diptongo? ¿De qué está compuesto?
 - ¿Qué es un hiato? ¿De qué está compuesto?
+
+</br>
 
 ### Las vocales
 
