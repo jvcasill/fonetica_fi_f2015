@@ -464,8 +464,8 @@ Dividir por sílabas las siguientes palabras...
 - También se denominan "semiconsonantes"
 - Están íntimamente relacionadas con las semivocales (/i̯ u̯/)
 - Siempre van en el arranque 
-- Las semivocales no pueden ir en el arranque
-- Lo que tenemos en su lugar es [ʝ] y [w]
+    - Las semivocales (/i̯ u̯/) no pueden ir en el arranque
+    - Lo que tenemos en su lugar es [ʝ] y [w]
 
 </br>
 
@@ -505,9 +505,11 @@ Dividir por sílabas las siguientes palabras...
 | [i̯] - [u̯]: | - fricción | + deslizamiento | - nucleares |
 | [i] - [u]:   | - fricción | - deslizamiento | + nucleares |
 
+</br>
+
 > - Hay lingüistas que transcriben todos los diptongos con semiconsonantes
-    - "suave" ⟶ /ˈswa.be/
-    - "lingüista" ⟶ /lin.ˈgwis.ta/
+    - "suave" ⟶ /ˈswa.be/ o /ˈsu̯a.be/
+    - "lingüista" ⟶ /lin.ˈgwis.ta/ o /lin.ˈgu̯is.ta/
 
 ---
 
