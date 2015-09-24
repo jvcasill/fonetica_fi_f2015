@@ -1,0 +1,31 @@
+\documentclass[12pt]{article}
+\usepackage{tipa}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{hhline}
+\usepackage{setspace}
+\setstretch{1.25}
+
+\begin{document}
+
+
+\begin{tabular}{@{}|p{2in}|c|c|c|c|@{}}
+
+\hline 
+\multirow{2}{*}{Tipo de palabra} & \multicolumn{4}{c|}{S\'ilaba}  \\ 
+\cline{2-5}
+% \hhline{~----}
+                 & 4a & 3a & 2a & 1a \\
+\hline 
+Aguda            &    &    &    & X  \\
+\hline 
+Llana            &    &    & X  & \\
+\hline 
+Esdr\'ujula      &    & X  &    & \\
+\hline 
+Sobreesdr\'ujula & X  &    &    & \\
+\hline
+\end{tabular}
+
+
+\end{document}

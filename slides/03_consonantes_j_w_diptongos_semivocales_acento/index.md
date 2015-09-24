@@ -1,6 +1,6 @@
 ---
 title       : Fonética y español oral
-subtitle    : Consonantes [ʝ] y [w]. Diptongos y semivocales.
+subtitle    : Consonantes [ʝ] y [w]. Diptongos, semivocales y acento.
 lecnum      : "03"
 author      : Joseph V. Casillas
 job         : "Instituto Franklin: otoño 2015"
@@ -360,6 +360,50 @@ Dividir por sílabas las siguientes palabras...
 
 
 
+
+
+
+
+
+
+# Precalentamiento
+
+---
+
+## Transcripción a la inversa
+
+| Transcripción fonémica | Palabra |
+| :--------------------- | :------ |
+| /ˈpa.xi.na/            |         |
+| /re.ko.ˈxeɾ/           |         |
+| /u.ˈma.no/             |         |
+| /xen.ˈtil/             |         |
+| /ˈθin.ko/              |         |
+| /ˈle.ʧe/               |         |
+| /ra.ˈton/              |         |
+| /o.ʧo.ˈθi̯en.tos/      |         |
+| /xa.po.ˈne.sa/         |         |
+| /ˈge.ra/               |         |
+
+---
+
+## Transcripción a la inversa
+
+| Transcripción fonémica |    Palabra    |
+| :--------------------- | :------------ |
+| /ˈpa.xi.na/            | "página"      |
+| /re.ko.ˈxeɾ/           | "recoger"     |
+| /u.ˈma.no/             | "humano"      |
+| /xen.ˈtil/             | "gentil"      |
+| /ˈθin.ko/              | "cinco"       |
+| /ˈle.ʧe/               | "leche"       |
+| /ra.ˈton/              | "ratón"       |
+| /o.ʧo.ˈθi̯en.tos/      | "ochocientos" |
+| /xa.po.ˈne.sa/         | "japonesa"    |
+| /ˈge.ra/               | "guerra"      |
+
+--- .segue bg:grey
+
 # Semivocales y vocales
 
 ---
@@ -392,15 +436,15 @@ Dividir por sílabas las siguientes palabras...
 
 ### [ i̯ ]
 
-- "i" adiós  
-- "y" hay
+- "i" adiós ⟶ /a.ˈdi̯os/
+- "y" hay ⟶ /ai̯/
 
 </br>
 
 ### [ u̯ ]
 
-- "u" suave
-- "ü" lingüista
+- "u" suave ⟶ /su̯a.be/
+- "ü" lingüista ⟶ /lin.ˈgu̯is.ta/
 
 --- .segue bg:grey
 
@@ -418,7 +462,8 @@ Dividir por sílabas las siguientes palabras...
 
 - Son consonantes fricativas
 - También se denominan "semiconsonantes"
-- Siempre en el arranque 
+- Están íntimamente relacionadas con las semivocales (/i̯ u̯/)
+- Siempre van en el arranque 
 - Las semivocales no pueden ir en el arranque
 - Lo que tenemos en su lugar es [ʝ] y [w]
 
@@ -439,9 +484,9 @@ Dividir por sílabas las siguientes palabras...
 
 | Ortografía | Transcripción |
 | :--------- | :------------ |
-| llamar     | [ʝa.már]      |
-| payaso     | [pa.ʝá.so]    |
-| whisky     | [wís.ki]      |
+| llamar     | /ʝa.ˈmar/     |
+| payaso     | /pa.ˈʝa.so/   |
+| whisky     | /ˈwis.ki/     |
 
 ---
 
@@ -460,6 +505,10 @@ Dividir por sílabas las siguientes palabras...
 | [i̯] - [u̯]: | - fricción | + deslizamiento | - nucleares |
 | [i] - [u]:   | - fricción | - deslizamiento | + nucleares |
 
+> - Hay lingüistas que transcriben todos los diptongos con semiconsonantes
+    - "suave" ⟶ /ˈswa.be/
+    - "lingüista" ⟶ /lin.ˈgwis.ta/
+
 ---
 
 ## [ʝ] y [w]
@@ -470,11 +519,201 @@ Dividir por sílabas las siguientes palabras...
 
 | Sonido | Letra | Ejemplo | Transcripción fonémica |
 | :----- | :---- | :------ | :--------------------- |
-| [ʝ]    | "y"   | yo      | [ʝo]                   |
-|        | "ll"  | calle   | [ˈka.ʝe]               |
-|        | "i"   | hielo   | [ˈʝe.lo]               |
-| [w]    | "w'"  | whisky  | [ˈwis.ki]              |
-|        | "u'"  | huerta  | [ˈweɾ.ta]              |
+| [ʝ]    | "y"   | yo      | /ʝo]                   |
+|        | "ll"  | calle   | /ˈka.ʝe/               |
+|        | "i"   | hielo   | /ˈʝe.lo/               |
+| [w]    | "w'"  | whisky  | /ˈwis.ki/              |
+|        | "u'"  | huerta  | /ˈweɾ.ta/              |
+
+--- .segue bg:grey
+
+# El acento
+
+---
+
+## Acento prosódico vs. acento ortográfico
+
+>- **Acento prosódico**: La sílaba más fuerte (más pronunciada) de la palabra
+- **Acento ortográfico**: La tilde escrita sobre una vocal para denotar el acento prosódico
+
+
+### No todas las palabras cuentan con un acento ortográfico (la tilde), pero sí **TODAS** tienen acento prosódico.
+
+| Palabra | Transcripción fonémica |
+| :------ | :--------------------- |
+| "casa"  | /ˈka.sa/               |
+| "móvil" | /ˈmo.bil/              |
+
+---
+
+## El acento ortográfico
+
+<div style="float:right">
+  <img width="100px" src="../../libraries/assets/img/fill.png"></img>
+  <img width="200px" src="../../libraries/assets/img/huh.gif"></img>
+</div>
+
+- Las palabras en español se denominan de manera diferente dependiendo de la sílaba en la que cae el acento primario de la palabra. 
+    - agudas
+    - llanas
+    - esdrújulas
+    - sobreesdrújulas
+
+---
+
+## El acento ortográfico
+
+|  Tipo de palabra   |                         Descripción                         |          Ejemplos          |
+| :----------------- | :---------------------------------------------------------- | :------------------------- |
+| **Agudas**         | Llevan el acento prosódico en la última sílaba              | "fatal", "capaz"           |
+| **Llanas**         | Llevan el acento prosódico en la penúltima sílaba           | "casa", "hermano"          |
+| **Esdrújulas**     | Llevan el acento prosódico en la antepenúlima sílaba        | "sábana", "esdrújula"      |
+| **Sobreesdrújulas** | Llevan el acento prosódico antes de la antepenúltima sílaba | "dándoselo", "escríbemelo" |
+
+</br>
+
+<div align="center">
+  <img width="500px" src="./assets/img/acentuacion.png"></img>
+</div>
+
+---
+
+## Información general
+
+<div style="float:right">
+  <img width="100px" src="../../libraries/assets/img/fill.png"></img>
+  <img width="350px" src="./assets/img/acentuacion.png"></img>
+</div>
+
+- Todas las palabras esdrújulas y sobreesdrújulas llevan tilde (acento ortográfico) en la sílaba tónica... **todas**.
+- Hay que aprender cuándo se tildan las agudas y las llanas
+- La gran mayoría de las palabras en español son llanas
+- La estructura silábica más común es CV.CV
+
+---
+
+## Dos tendencias generales
+        
+### Las palabras que terminan en vocal, "n" o "s" suelen ser llanas
+
+- Ej. comen, casas, boca, hacen, buscamos...
+
+### Las palabras que terminan en consonante (excepto “n” o “s”) suelen ser agudas
+
+- Ej. fatal, total, hacer, feliz, perfil...
+
+### <BLUE>Las palabras que respetan esta tendencia del español NO llevan acento gráfico/escrito.</BLUE>
+
+---
+
+## Regla para la acentuación
+
+### REGLA UNIVERSAL
+
+- Las palabras llanas y agudas que no siguen la tendencia general llevan una tilde en la vocal tónica de la palabra.
+
+---
+
+## A practicar
+
+### Explicad por qué las siguientes palabras requieren o no una tilde...
+
+| Transcripción fonémica | Palabra | Explicación |
+| :--------------------- | :------ | :---------- |
+| /a.ˈo.ɾa/              |         |             |
+| /ˈbes.tia/             |         |             |
+| /es.ˈdru.xu.la/        |         |             |
+| /ˈpru̯e.ba/            |         |             |
+| /ka.ˈfe/               |         |             |
+
+---
+
+## A practicar
+
+### Explicad por qué las siguientes palabras requieren o no una tilde...
+
+| Transcripción fonémica |   Palabra   |              Explicación               |
+| :--------------------- | :---------- | :------------------------------------- |
+| /a.ˈo.ɾa/              | "ahora"     | No, porque es llana y termina en vocal |
+| /ˈbes.tia/             | "bestia"    | No, porque es llana y termina en vocal |
+| /es.ˈdru.xu.la/        | "esdrújula" | Sí, porque es esdrújula                |
+| /ˈpru̯e.ba/            | "prueba"    | No, porque es llana y termina en vocal |
+| /ka.ˈfe/               | "café"      | Sí, porque es aguda y termina en vocal |
+
+---
+
+## El antidiptongo
+
+### Considerad las siguientes palabras
+
+- prohíbo
+- día
+- oír
+- Raúl
+- continúa
+- leíste
+- tenía
+
+---
+
+## Las palabras monosilábicas
+
+- Las palabras monosilábicas en español no llevan tilde, excepto en los casos de homonimia
+- La tilde sirve para diferenciar entre homónimos, palabras ortográficamente idénticas pero con significado diferente
+
+### Ej. 
+
+- de/dé
+- mi/mí
+- si/sí
+- tu/tú
+- mas/más...
+
+---
+
+## ¡Ya está! Ahora sabes poner bien las tildes
+
+</br>
+
+<div align="center">
+  <img width="500px" src="../../libraries/assets/img/ole.gif"></img>
+</div>
+
+--- .segue bg:grey
+
+# Repaso
+
+--- &twocol
+
+## Lo que hemos visto...
+
+*** {name: left}
+
+- la lingüística y las distintas ramas
+- grafema/dígrafo vs. fonema
+- la sílaba
+  - composición (ataque, núcleo, coda)
+  - grupos consonánticos
+- monoptongos
+- diptongos (3 tipos)
+- hiatos 
+- diferencias entre el inglés y el español (vocales)
+
+*** {name: right}
+
+- correspondencia absoluta/exclusiva
+- semivocales/semiconsonantes
+- el grafema "x"
+- los fonemas [ʝ] y [w]
+- el acento ortográfico
+- el acento prosódico
+
+---
+
+## Tarea
+
+- Para entregar (el martes), hoja impresa
+
 
 
 

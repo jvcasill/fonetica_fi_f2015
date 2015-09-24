@@ -207,7 +207,7 @@ proporcionando detalles y fechas más exactas más adecuadas al ritmo de la clas
 | :-------- | :----------- | :---------------------------------------------------- |
 | Semana 1  | 08/09, 10/09 | Intro al curso. Grabaciones                           |
 | Semana 2  | 15/09, 17/09 | La sílaba. Diptongos. Hiatos.                         |
-| Semana 3  | 22/09, 24/09 | Consonantes [ʝ] y [w]. Diptongos y semivocales.       |
+| Semana 3  | 22/09, 24/09 | Consonantes [ʝ] y [w]. Diptongos, semivocales, acento.|
 | Semana 4  | 29/09, 01/10 | Sílabas, vocales y ritmo. Vocales en contacto. Schwa. |
 | Semana 5  | 06/10, 08/10 | Prueba 1, Fonética articulatoria: vocales.            |
 | Semana 6  | 13/10, 15/10 | Fonética articulatoria: consonantes.                  |
