@@ -24,7 +24,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 1. ¿Qué lenguas hablas?
 1. ¿Cómo y dónde has aprendido a hablar el español?
 1. ¿Qué significa ser bilingüe?
-1. ¿Cuál es la relación que tienes con los dos idiomas? ¿Eres bilingües? ¿Cómo caracterizarías tu bilingüismo? 
+1. ¿Cuál es la relación que tienes con los dos idiomas? ¿Eres bilingüe? ¿Cómo caracterizarías tu bilingüismo? 
 1. ¿Cuál es tu actitud y/o sentimientos hacia el español?
 1. ¿Qué es lo que más te gusta del idioma español?
 1. Si pudieras cambiar algo sobre la lengua, ¿que sería?
@@ -333,6 +333,10 @@ mia.mi.goy.yo. fui.mo.sa.ve.rau.na.mi.go
 - c**a**min**a**
 - lágrim**a**
 
+--- .segue bg:grey
+
+# Precalentamiento
+
 ---
 
 
@@ -353,6 +357,48 @@ mia.mi.goy.yo. fui.mo.sa.ve.rau.na.mi.go
 
 
 
+
+
+
+## A pensar
+
+### Reflexionad sobre los siguientes aspectos y proporcionad ejemplos de:
+
+- Un sonido que se represente con diferentes letras
+- Letras que se pronuncien de diferentes maneras
+- Letras que no se pronuncien
+- Una letra que se pronuncie con dos sonidos juntos
+- Un sonido que se represente con dos letras juntas
+
+--- 
+
+## Mini repaso
+
+<div style="float:right">
+  <img width="100" src="../../libraries/assets/img/fill.png">
+  <img width="400" src="./assets/img/toyoda.jpg">
+</div>
+
+Jodee Berry of Panama City, Fla., sits with her toy Yoda at her lawyer's 
+office Wednesday. Berry, a former Hooters waitress, has sued the restaurant 
+where she worked saying she was promised a new Toyota for winning a beer 
+sales contest in April. Berry, 26, believed that she had one a new car, but 
+she was blindfolded, led to the parking lot and presented a toy Yoda, the 
+little green guy from Star Wars.
+
+---
+
+## Mini repaso
+
+<div style="float:right">
+  <img width="400" src="./assets/img/superbowl.jpg">
+</div>
+
+- El encadenamiento
+- El acento
+- La duración
+
+---
 
 ## El ritmo
 
@@ -414,6 +460,46 @@ La transcripción ancha será suficiente para los propósitos de nuestra clase.
 
 --- .segue bg:grey
 
+# /ɾ/ vs. /r/
+
+---
+
+## Las vibrantes
+
+### En español tenemos dos tipos de vibrantes
+
+1. La vibrante **simple**: /ɾ/
+2. La vibrante <BLUE>múltiple</BLUE>: /r/
+
+### /ɾ/ vs. /r/
+
+> - /ɾ/ ⟶ "r" (siempre)
+- /r/ ⟶ "r" o "rr"
+    - ¿Cómo sabemos cuándo?
+
+---
+
+## Las vibrantes
+
+### "r" = /r/ en los siguientes contextos...
+
+- Al principio de palabra 
+    - "rico": /ˈri.ko/
+    - "romántico": /ro.ˈman.ti.ko/
+
+</br>
+
+- Tras los grafemas "l", "n", "s"
+    - alrededor: /al.re.de.ˈdoɾ/
+    - Enrique: /en.ˈri.ke/
+    - Israel: /is.ra.ˈel/
+
+</br>
+
+### En cualquier otro contexto, "r" es /ɾ/
+
+--- .segue bg:grey
+
 # Los fonemas
 
 ---
@@ -454,11 +540,15 @@ La transcripción ancha será suficiente para los propósitos de nuestra clase.
   <img width="500" src="./assets/img/transcribirR.pdf">
 </div>
 
----
 
-## Más práctica
 
-|   Palabra    | Transcripción fonémica |
+
+
+
+
+<!-- ## Más práctica -->
+
+<!-- |   Palabra    | Transcripción fonémica |
 | :----------- | :--------------------- |
 | Genocidio    |                        |
 | Bendición    |                        |
@@ -469,13 +559,13 @@ La transcripción ancha será suficiente para los propósitos de nuestra clase.
 | Recital      |                        |
 | Zoológico    |                        |
 | Quitamanchas |                        |
-| Chorizo      |                        |
+| Chorizo      |                        | -->
 
----
+<!-- --- -->
 
-## Más práctica
+<!-- ## Más práctica -->
 
-|   Palabra    | Transcripción fonémica |
+<!-- |   Palabra    | Transcripción fonémica |
 | :----------- | :--------------------- |
 | Genocidio    | /xe.no.ˈθi.di̯o/       |
 | Bendición    | /ben.di.ˈθi̯on/        |
@@ -486,48 +576,82 @@ La transcripción ancha será suficiente para los propósitos de nuestra clase.
 | Recital      | /re.θi.ˈtal/           |
 | Zoológico    | /θo.o.ˈlo.xi.ko/       |
 | Quitamanchas | /ki.ta.ˈman.ʧas/       |
-| Chorizo      | /ʧo.ˈɾi.θo/            |
+| Chorizo      | /ʧo.ˈɾi.θo/            | -->
+
+
+
+
+
+
+--- .segue bg:grey
+
+# Repaso
+
+--- &twocol
+
+## Hasta ahora hemos visto...
+
+*** {name: left}
+
+- la lingüística y las distintas ramas
+- grafema/dígrafo vs. fonema
+- la sílaba
+  - composición (ataque, núcleo, coda)
+  - grupos consonánticos
+- monoptongos
+- diptongos (3 tipos)
+- hiatos 
+- diferencias entre el inglés y el español (vocales)
+
+*** {name: right}
+
+- correspondencia absoluta/exclusiva
+- semivocales/semiconsonantes
+- el grafema "x"
+- los fonemas [ʝ] y [w]
+- el acento ortográfico
+- el acento prosódico
+
+--- &twocol
+
+## Esta semana hemos visto...
+
+### La sílaba
+
+*** {name: left}
+
+- El encadenamiento
+    - consonantes
+    - vocales
+- El acento
+    - prosódico
+    - ortográfico
+- La duración
+    - español vs. inglés
+- El ritmo
+    - español vs. inglés
+
+*** {name: right}
+
+- La schwa
+    - ¿qué es?
+    - ¿cómo se identifica?
+    - ¿cómo se evita?
+- Cómo mejorar la pronunciación
+- La transcripción
+    - fonológica vs. fonética
+    - estrecha vs. ancha
+- Los fonemas del español
+- /ɾ/ vs. /r/
 
 ---
 
+## Prueba el martes
 
-## Las vibrantes
+- Repasad las presentaciones
+- Estudiad los resúmenes
+- Haced preguntas
 
-### /ɾ/ vs. /r/
-
-- /ɾ/ ⟶ "r" (siempre)
-- /r/ ⟶ "r" o "rr"
-
----
-
-## Las vibrantes
-
-### "r" = /r/ en los siguientes contextos...
-
-- Al principio de palabra ("rico", "romántico")
-- Tras los grafemas "l", "n", "s"
-    - alrededor
-    - Enrique
-    - Israel
-
-
-
-
-
-
-
-
-## A pensar
-
-### Reflexionad sobre los siguientes aspectos y proporcionad ejemplos de:
-
-- Un sonido que se represente con diferentes letras
-- Letras que se pronuncien de diferentes maneras
-- Letras que no se pronuncien
-- Una letra que se pronuncie con dos sonidos juntos
-- Un sonido que se represente con dos letras juntas
-
---- 
 
 
 
