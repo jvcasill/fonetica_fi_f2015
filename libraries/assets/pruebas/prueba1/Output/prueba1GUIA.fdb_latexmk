@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1443622271 "/Users/casillas/academia/teaching/ua/ua_spanish_340/fonetica_fi_f2015/libraries/assets/pruebas/prueba1/prueba1GUIA.tex" "Output/prueba1GUIA.pdf" "prueba1GUIA" 1443622272
+["pdflatex"] 1443692899 "/Users/casillas/academia/teaching/ua/ua_spanish_340/fonetica_fi_f2015/libraries/assets/pruebas/prueba1/prueba1GUIA.tex" "Output/prueba1GUIA.pdf" "prueba1GUIA" 1443692900
   "/Users/casillas/Library/texmf/tex/latex/misc/cgloss4e.sty" 1354922997 6095 45288f50872b170544bf4feb61584b97 ""
   "/Users/casillas/Library/texmf/tex/latex/misc/ling.sty" 1367123789 798 5d887c86322b428584e3d0c69390463c ""
   "/Users/casillas/Library/texmf/tex/latex/misc/qtree.sty" 1317265411 37840 af733ddbac7a85c7a51356efa3682b6c ""
-  "/Users/casillas/academia/teaching/ua/ua_spanish_340/fonetica_fi_f2015/libraries/assets/pruebas/prueba1/prueba1GUIA.tex" 1443622269 2667 a9596b9ff34d28e8c502517a042b142e ""
+  "/Users/casillas/academia/teaching/ua/ua_spanish_340/fonetica_fi_f2015/libraries/assets/pruebas/prueba1/prueba1GUIA.tex" 1443692898 2668 d46690d680c2b81c13f93d15174304a8 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1136768653 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -107,10 +107,10 @@
   "/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1401025944 1445653 26a0aacf3d70032b1ec192e8c7792117 ""
   "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1401025990 3832012 904d82bdcc8abf2b1cd296990b82553b ""
   "/usr/local/texlive/2014/texmf.cnf" 1401025936 577 a59edbde8d3a8c549d0eeaab1739e2ff ""
-  "Output/prueba1GUIA.aux" 1443622272 1928 0292de1faf0fda15c542fea9f70fce64 ""
-  "prueba1GUIA.tex" 1443622269 2667 a9596b9ff34d28e8c502517a042b142e ""
+  "Output/prueba1GUIA.aux" 1443692900 1929 ec5b048158e123318be9078046b5a5e8 ""
+  "prueba1GUIA.tex" 1443692898 2668 d46690d680c2b81c13f93d15174304a8 ""
   (generated)
-  "Output/prueba1GUIA.log"
   "Output/prueba1GUIA.pdfsync"
-  "Output/prueba1GUIA.pdf"
   "Output/prueba1GUIA.aux"
+  "Output/prueba1GUIA.log"
+  "Output/prueba1GUIA.pdf"
