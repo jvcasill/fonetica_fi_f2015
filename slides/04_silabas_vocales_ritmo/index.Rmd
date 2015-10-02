@@ -650,7 +650,7 @@ La transcripción ancha será suficiente para los propósitos de nuestra clase.
 
 - Repasad las presentaciones
 - Estudiad los resúmenes
-- Haced preguntas
+- ¡Haced preguntas!
 
 
 
