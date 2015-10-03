@@ -652,6 +652,169 @@ La transcripción ancha será suficiente para los propósitos de nuestra clase.
 - Estudiad los resúmenes
 - ¡Haced preguntas!
 
+--- .segue bg:grey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Más sobre la estructura silábica
+
+---
+
+## La estructura silábica preferida
+
+- En español la estructura silábica preferida es **CV.CV**
+- Se prefieren las silábas abiertas
+- Se prefieren los ataques antes que las codas
+
+---
+
+## El encadenamiento
+
+>- Es un actor muy bueno. 
+- Esunactormuybueno. 
+- E.su.nac.tor.muy.bue.no 
+- /e.su.nak.ˈtoɾ.mu̯i.ˈbu̯e.no/
+
+---
+
+## Vale, pero...
+
+>- ¿Qué evidencia tenemos de que se prefieren los ataques? 
+    - Un actor → /u.nak.ˈtoɾ/
+    - Un actor → /un.ak.ˈtoɾ/
+- ¿Lo podemos demostrar acústica, física o psicológicamente?
+
+---
+
+## Un pequeño experimento de percepción
+
+>- Escuchad el siguiente fragmento de una oración. 
+- En un papel escribid lo que habéis escuchado y la traducción correspondiente en inglés 
+- Después, en español, agregad unas palabras más a lo que hayáis escrito para hacer una oración completa.
+
+</br>
+
+<audio controls>
+  <source src="./assets/img/lo_secos_word.ogg" type="audio/ogg">
+  <source src="./assets/img/lo_secos_word.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+---
+
+## ¿Qué habéis escuchado?
+
+>- ¿Habéis escuchado "los ecos"?
+- ¿Cómo habéis terminado la frase?
+- ¿Podría haber sido otra cosa?
+
+---
+
+## Frase 1
+
+<div align="center">
+  <img width="700" src="./assets/img/lo_secos.pdf">
+</div>
+
+<audio controls>
+  <source src="./assets/img/lo_secos.ogg" type="audio/ogg">
+  <source src="./assets/img/lo_secos.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+---
+
+## Frase 2
+
+<div align="center">
+  <img width="700" src="./assets/img/los_ecos.pdf">
+</div>
+
+<audio controls>
+  <source src="./assets/img/los_ecos.ogg" type="audio/ogg">
+  <source src="./assets/img/los_ecos.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+---
+
+
+## ¿Cómo?
+
+- ¿Por qué habéis interpretado algo distinto?
+- ¿Cómo lo transcribiríais?
+- Sería posible vuestra interpretación si la estructura silábica no fuese **CV.CV**?
+
+--- &twocol
+
+## Comparad...
+
+*** {name: left}
+
+<div align="center">
+  Lo secos
+  </br>
+  <img width="450" src="./assets/img/lo_secos.pdf">
+  </br>
+  [lo.ˈse.kos]
+  </br>
+  </br>
+  <audio controls>
+    <source src="./assets/img/lo_secos.ogg" type="audio/ogg">
+    <source src="./assets/img/lo_secos.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+
+*** {name: right}
+
+<div align="center">
+  Los ecos
+  </br>
+  <img width="450" src="./assets/img/los_ecos.pdf">
+  </br>
+  [lo.ˈse.kos]
+  </br>
+  </br>
+  <audio controls>
+    <source src="./assets/img/los_ecos.ogg" type="audio/ogg">
+    <source src="./assets/img/los_ecos.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+---
+
+## ¿y qué?
+
+- Si no hubiese una estrucura silábica preferida, lo más lógico sería que 
+pronunciásemos los dos enunciados de una manera distinta y que los percibiésemos 
+como estructuras diferentes.
+
+
+<div align="center">
+  <img width="350px" src="../../libraries/assets/img/happy.jpg"></img>
+</div>
+
 
 
 
