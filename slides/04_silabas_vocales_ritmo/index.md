@@ -807,12 +807,15 @@ Your browser does not support the audio element.
 ## ¿y qué?
 
 - Si no hubiese una estrucura silábica preferida, lo más lógico sería que 
-pronunciásemos los dos enunciados de una manera distinta y que los percibiésemos 
+pronunciásemos los dos enunciados de distintas maneras y que los percibiésemos 
 como estructuras diferentes.
+- Como éste no parece ser el caso, suponemos que hay una estructura silábica 
+preferida que fuerza la resilabificación entre palabras (el encadenamiento) y 
+por tanto no percibimos una diferencia entre 'lo secos' y 'los ecos'.
 
 
 <div align="center">
-  <img width="350px" src="../../libraries/assets/img/happy.jpg"></img>
+  <img width="250px" src="../../libraries/assets/img/happy.jpg"></img>
 </div>
 
 
