@@ -46,7 +46,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## El aparato fonador
 
 <div align="center">
-  <img width="800" src="./assets/img/aparatofonador.pdf">
+  <img width="800" src="./assets/img/aparatofonador.png">
 </div>
 
 - **Aparato fonador**: las partes del cuerpo humano donde producimos los sonidos
@@ -76,7 +76,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## Los articuladores pasivos
 
 <div align="center">
-  <img width="800" src="./assets/img/dientes.pdf">
+  <img width="800" src="./assets/img/dientes.png">
 </div>
 
 ---
@@ -85,7 +85,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## Los articuladores pasivos
 
 <div align="center">
-  <img width="800" src="./assets/img/zonaalveolar.pdf">
+  <img width="800" src="./assets/img/zonaalveolar.png">
 </div>
 
 ---
@@ -94,7 +94,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## Los articuladores pasivos
 
 <div align="center">
-  <img width="800" src="./assets/img/zonapalatal.pdf">
+  <img width="800" src="./assets/img/zonapalatal.png">
 </div>
 
 ---
@@ -103,7 +103,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## Los articuladores activos
 
 <div align="center">
-  <img width="800" src="./assets/img/labios.pdf">
+  <img width="800" src="./assets/img/labios.png">
 </div>
 
 ---
@@ -112,7 +112,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## Los articuladores activos
 
 <div align="center">
-  <img width="800" src="./assets/img/lengua.pdf">
+  <img width="800" src="./assets/img/lengua.png">
 </div>
 
 ---
@@ -121,7 +121,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## Los articuladores activos
 
 <div align="center">
-  <img width="800" src="./assets/img/mandibula.pdf">
+  <img width="800" src="./assets/img/mandibula.png">
 </div>
 
 ---
@@ -130,7 +130,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## Los articuladores activos
 
 <div align="center">
-  <img width="800" src="./assets/img/uvula.pdf">
+  <img width="800" src="./assets/img/uvula.png">
 </div>
 
 ---

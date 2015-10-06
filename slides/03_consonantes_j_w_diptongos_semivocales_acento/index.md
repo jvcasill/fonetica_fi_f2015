@@ -204,7 +204,7 @@ Dividir por sílabas las siguientes palabras...
 </br>
 
 <div align="center">
-  <img width="600px" src="./assets/img/noexclusivaC.pdf"></img>
+  <img width="600px" src="./assets/img/noexclusivaC.png"></img>
 </div>
 
 ---
@@ -214,7 +214,7 @@ Dividir por sílabas las siguientes palabras...
 </br>
 
 <div align="center">
-  <img width="600px" src="./assets/img/noexclusivaC2.pdf"></img>
+  <img width="600px" src="./assets/img/noexclusivaC2.png"></img>
 </div>
 
 ### Ej. 
@@ -229,7 +229,7 @@ Dividir por sílabas las siguientes palabras...
 </br>
 
 <div align="center">
-  <img width="600px" src="./assets/img/noexclusiva.pdf"></img>
+  <img width="600px" src="./assets/img/noexclusiva.png"></img>
 </div>
 
 ---
@@ -239,7 +239,7 @@ Dividir por sílabas las siguientes palabras...
 </br>
 
 <div align="center">
-  <img width="600px" src="./assets/img/noexclusiva2.pdf"></img>
+  <img width="600px" src="./assets/img/noexclusiva2.png"></img>
 </div>
 
 ### Ej.
@@ -252,7 +252,7 @@ Dividir por sílabas las siguientes palabras...
 ## Resumen - Tipos de correspondencia
 
 <div align="center">
-  <img width="700px" src="./assets/img/resumen.pdf"></img>
+  <img width="700px" src="./assets/img/resumen.png"></img>
 </div>
 
 ---

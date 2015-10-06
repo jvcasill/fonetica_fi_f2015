@@ -580,7 +580,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ---
 
 <div align="center">
-  <img width="900" src="./assets/img/vowel_space.pdf">
+  <img width="900" src="./assets/img/vowel_space.png">
 </div>
 
 ---
@@ -610,7 +610,7 @@ Lo fundamental para poder silabificar **cualquier** palabra en español es saber
 ## Las vocales del español
 
 <div align="center">
-  <img width="700" src="./assets/img/vocales_esp.pdf">
+  <img width="700" src="./assets/img/vocales_esp.png">
 </div>
 
 ---

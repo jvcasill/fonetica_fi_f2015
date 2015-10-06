@@ -531,13 +531,13 @@ La transcripción ancha será suficiente para los propósitos de nuestra clase.
 ---
 
 <div align="center">
-  <img width="500" src="./assets/img/transcribir.pdf">
+  <img width="500" src="./assets/img/transcribir.png">
 </div>
 
 ---
 
 <div align="center">
-  <img width="500" src="./assets/img/transcribirR.pdf">
+  <img width="500" src="./assets/img/transcribirR.png">
 </div>
 
 
@@ -731,7 +731,7 @@ Your browser does not support the audio element.
 ## Frase 1
 
 <div align="center">
-  <img width="700" src="./assets/img/lo_secos.pdf">
+  <img width="700" src="./assets/img/lo_secos.png">
 </div>
 
 <audio controls>
@@ -745,7 +745,7 @@ Your browser does not support the audio element.
 ## Frase 2
 
 <div align="center">
-  <img width="700" src="./assets/img/los_ecos.pdf">
+  <img width="700" src="./assets/img/los_ecos.png">
 </div>
 
 <audio controls>
@@ -772,7 +772,7 @@ Your browser does not support the audio element.
 <div align="center">
   Lo secos
   </br>
-  <img width="450" src="./assets/img/lo_secos.pdf">
+  <img width="450" src="./assets/img/lo_secos.png">
   </br>
   [lo.ˈse.kos]
   </br>
@@ -790,7 +790,7 @@ Your browser does not support the audio element.
 <div align="center">
   Los ecos
   </br>
-  <img width="450" src="./assets/img/los_ecos.pdf">
+  <img width="450" src="./assets/img/los_ecos.png">
   </br>
   [lo.ˈse.kos]
   </br>
