@@ -683,6 +683,8 @@ La transcripción ancha será suficiente para los propósitos de nuestra clase.
 - En español la estructura silábica preferida es **CV.CV**
 - Se prefieren las silábas abiertas
 - Se prefieren los ataques antes que las codas
+	- CVC.V = 😞  
+	- CV.CV = 😀
 
 ---
 
@@ -691,7 +693,7 @@ La transcripción ancha será suficiente para los propósitos de nuestra clase.
 >- Es un actor muy bueno. 
 - Esunactormuybueno. 
 - E.su.nac.tor.muy.bue.no 
-- /e.su.nak.ˈtoɾ.mu̯i.ˈbu̯e.no/
+- /e.**s**u.**n**ak.ˈtoɾ.mu̯i.ˈbu̯e.no/
 
 ---
 
