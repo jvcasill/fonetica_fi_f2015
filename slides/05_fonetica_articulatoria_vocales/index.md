@@ -58,18 +58,18 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ### Articulamos los sonidos con *los articuladores pasivos* y *los articuladores activos*
     
 - **los articuladores pasivos**: los articuladores que *reciben* el contacto
-- **los articuladores activos**: los articuladores que *producen* el contanto
+- **los articuladores activos**: los articuladores que *producen* el contacto
 
 ---
 
 ## El aparato fonador
 
-| Articuladores pasivos |          Articuladores activos           |
-| :-------------------- | :--------------------------------------- |
-| Dientes               | Labios: se abren, cierran, redondean     |
-| Zona alveolar         | Lengua: se retrae, adelanta, baja, sube  |
-| Zona palatal          | Mandíbula inferior: se abre              |
-|                       | Úvula: se extiende hacia atrás o se baja |
+|     | Articuladores pasivos |            Articuladores activos             |
+| :-- | :-------------------- | :------------------------------------------- |
+|     | **Dientes**           | **Labios**: se abren/cierran/redondean       |
+|     | **Zonja alveolar**    | **Lengua**: se retrae/adelanta/baja/sube     |
+|     | **Zona palatal**      | **Mandíbula inferior**: se abre              |
+|     |                       | **Úvula**: se extiende hacia atrás o se baja |
 
 ---
 
@@ -255,7 +255,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ### Diferencias con respecto a las vocales del inglés (otra vez)
 
 - Son cortas y tensas
-- Nunca llegan a ser diptongos
+- Nunca llegan a ser diptongos *por accidente*
 - No se reducen
 
 ---
