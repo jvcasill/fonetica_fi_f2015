@@ -62,6 +62,12 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 |     | **Zona palatal**      | **Mandíbula inferior**: se abre              |
 |     |                       | **Úvula**: se extiende hacia atrás o se baja |
 
+</br>
+
+> - ¿Lo puedo mover?
+    - Sí. Es un articulador *activo*.
+    - No. Es un articulador *pasivo*.
+
 ---
 
 ## ¿En qué se diferencian?
@@ -81,7 +87,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
   
 ### Clasificación:
 
-- Posición de la lengua en dos ejes 
+> - Posición de la lengua en dos ejes 
     - horizontal 
     - vertical
 - El redondeamiento de los labios
@@ -98,6 +104,13 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 \* <BLUE>redondeada</BLUE>
 
 --- .segue bg:grey
+
+<div align="right">
+  <img width="325" src="./assets/img/fonemas_edit.png">
+</div>
+
+</br>
+</br>
 
 # Los fonemas consonánticos
 
@@ -117,6 +130,16 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 --- .segue bg:black
 
+</br>
+
+<div align="center">
+  <img width="700" src="./assets/img/welcome.jpg">
+</div>
+
+</br>
+</br>
+</br>
+
 # 1. La sonoridad
 
 ---
@@ -125,8 +148,8 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ### Todos los sonidos de todos los idiomas pertenecen a uno de estos dos grandes grupos:
 
-- **SONOROS**: vibran las cuerdas vocales [+son]
-- **SORDOS**: no vibran las cuerdas vocales [-son] 
+> - **SONOROS**: vibran las cuerdas vocales [+son]
+> - **SORDOS**: no vibran las cuerdas vocales [-son] 
 
 ---
 
@@ -139,7 +162,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ### Una prueba para comprobar la sonoridad de un sonido dado...
 
-- Prueba de la garganta
+> - Las vibraciones de las cuerdas vocales se pueden notar tocándose la garganta
 	- ssssss (sordo)
 	- zzzzzz (sonoro)
 
@@ -157,7 +180,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ### ¿Cuáles son los sonidos sordos y sonoros?
 
-/p, t, d, k, s, f, g, b, n, m, ʝ, x, r, ɾ, w, l, ʧ, ɲ, a, e, i, o, u, i̯, u̯/  
+/p, t, d, k, s, f, θ, g, b, n, m, ʝ, x, r, ɾ, w, l, ʧ, ɲ, a, e, i, o, u, i̯, u̯/  
 
 
 |     |  Sordos  |       Sonoros        |
@@ -165,7 +188,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 |     | \_ \_ \_ | \_ \_ \_             |
 |     | \_       | \_ \_ \_             |
 |     | \_       | \_ \_ \_ \_ \_ \_ \_ |
-|     | \_       | \_ \_                |
+|     | \_ \_    | \_ \_                |
 |     | \_       | \_ \_ \_             |
 
 ---
@@ -174,15 +197,21 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ### ¿Cuáles son los sonidos sordos y sonoros?
 
-/p, t, d, k, s, f, g, b, n, m, ʝ, x, r, ɾ, w, l, ʧ, ɲ, a, e, i, o, u, i̯, u̯/  
+/p, t, d, k, s, f, θ, g, b, n, m, ʝ, x, r, ɾ, w, l, ʧ, ɲ, a, e, i, o, u, i̯, u̯/  
 
 |     |          Sordos         |                                                         Sonoros                                                          |
 | :-- | :---------------------- | :----------------------------------------------------------------------------------------------------------------------- |
 |     | /**p**/ /**t**/ /**k**/ | /<BLUE>b</BLUE>/ /<BLUE>d</BLUE>/ /<BLUE>g</BLUE>/                                                                       |
 |     | /**s**/                 | /<BLUE>n</BLUE>/ /<BLUE>m</BLUE>/ /<BLUE>ɲ</BLUE>/                                                                       |
 |     | /**ʧ**/                 | /<BLUE>i</BLUE>/ /<BLUE>e</BLUE>/ /<BLUE>a</BLUE>/ /<BLUE>o</BLUE>/ /<BLUE>u</BLUE>/ /<BLUE>i̯</BLUE>/ /<BLUE>u̯</BLUE>/ |
-|     | /**f**/                 | /<BLUE>ʝ</BLUE>/ /<BLUE>w</BLUE>/                                                                                        |
+|     | /**f**/ /**θ**/         | /<BLUE>ʝ</BLUE>/ /<BLUE>w</BLUE>/                                                                                        |
 |     | /**x**/                 | /<BLUE>r</BLUE>/ /<BLUE>ɾ</BLUE>/ /<BLUE>l</BLUE>/                                                                       |
+
+---
+
+<div align="center">
+  <img width="700" src="./assets/img/fonemas_edit.png">
+</div>
 
 --- .segue bg:black
 
@@ -229,8 +258,10 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ## 1. Modo oclusivo
 
+</br>
+
 <div align="center">
-  <img src="./assets/img/oclusivo.jpg">
+  <img width="850" src="./assets/img/oclusivo.jpg">
 </div>
 
 ---
@@ -239,14 +270,14 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ### Obstáculo parcial
 
-¿Cuáles son los fonemas correspondientes?
-
-- Las consonantes fricativas sordas 
-- Las consonantes fricativas sonoras
+- un estrechamiento de los órganos articulatorios sin que éstos lleguen a juntarse → fricción
 
 </br>
 
-- un estrechamiento de los órganos articulatorios sin que éstos lleguen a juntarse → fricción
+### ¿Cuáles son los fonemas correspondientes?
+
+- Las consonantes fricativas sordas 
+- Las consonantes fricativas sonoras
 
 ---
 
@@ -254,10 +285,14 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ### Obstáculo parcial
 
-¿Cuáles son los fonemas correspondientes?
+- un estrechamiento de los órganos articulatorios sin que éstos lleguen a juntarse → fricción
 
-- Las consonantes fricativas sordas /**f**, **s**, **x**/
-- Las consonantes fricativas sonoras /<BLUE>ʝ</BLUE>/
+</br>
+
+### ¿Cuáles son los fonemas correspondientes?
+
+- Las consonantes fricativas sordas /**f**, **θ**, **s**, **x**/
+- Las consonante fricativa sonora /<BLUE>ʝ</BLUE>/
 
 ---
 
@@ -265,24 +300,28 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ### Obstáculo total + obstáculo parcial
 
-¿Cuáles son los fonemas correspondientes?
+- Cierre completo de dos órganos articulatorios seguido por una fricción
+
+</br>
+
+### ¿Cuáles son los fonemas correspondientes?
 
 - Las consonantes fricativas sordas 
 - Las consonantes fricativas sonoras
 
-</br>
-
-- Cierre completo de dos órganos articulatorios seguido por una fricción
-
 ---
 
 ## 3. Modo africado
 
 ### Obstáculo total + obstáculo parcial
 
-¿Cuáles son los fonemas correspondientes?
+- Cierre completo de dos órganos articulatorios seguido por una fricción
 
-- Las consonantes fricativas sordas /<BLUE>ʧ</BLUE>/
+</br>
+
+### ¿Cuáles son los fonemas correspondientes?
+
+- La consonante africada sorda /<BLUE>ʧ</BLUE>/
 
 ---
 
@@ -301,6 +340,8 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 - La cavidad oral está cerrada y el pasaje nasal abierto
 - La úvula baja y permite que el aire pase a la cavidad nasal
 
+</br>
+
 ### ¿Cuáles son los fonemas correspondientes?
 
 - Las consonantes nasales son sonoras
@@ -313,6 +354,8 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 - La cavidad oral está cerrada y el pasaje nasal abierto 
 - La úvula baja y permite que el aire pase a la cavidad nasal 
+
+</br>
 
 ### ¿Cuáles son los fonemas correspondientes?
 
@@ -340,9 +383,11 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 - <BLUE>Simple</BLUE>: el ápice toca los alvéolos una sola vez - /<BLUE>ɾ</BLUE>/
 - <BLUE>Múltiple</BLUE>: el ápice toca los alvéolos varias veces - /<BLUE>r</BLUE>/
 
---- .segue bg:grey
+---
 
-# A practicar...
+<div align="center">
+  <img width="700" src="./assets/img/fonemas_edit.png">
+</div>
 
 ---
 
@@ -357,6 +402,10 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 |     | /p/    | -    |
 |     | /ʧ/    | -    |
 |     | /l/    | -    |
+|     | /r/    | -    |
+|     | /θ/    | -    |
+|     | /ɲ/    | -    |
+|     | /ʝ/    | -    |
 
 ---
 
@@ -371,6 +420,52 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 |     | /p/    | oclusivo  |
 |     | /ʧ/    | africado  |
 |     | /l/    | lateral   |
+|     | /r/    | vibrante  |
+|     | /θ/    | fricativo |
+|     | /ɲ/    | nasal     |
+|     | /ʝ/    | fricativo |
+
+--- .segue bg:black
+
+# El punto de articulación
+
+---
+
+## El punto de articulación
+
+- El punto de articulación describe el lugar donde se produce el contacto entre 
+los articuladores.
+- Los fonemas consonánticos del español se producen en los siguientes lugares:
+
+</br>
+
+|    Punto     |              Articulador              |
+| :----------- | :------------------------------------ |
+| Bilabial     | Los dos labios                        |
+| Labiodental  | Labio inferior y dientes superiores   |
+| Interdental  | Ápice y dientes inferiores/superiores |
+| Dental       | Ápice y dientes superiores            |
+| Alveolar     | Ápice y alvéolos                      |
+| Alveopalatal | Predorso y la zona postalveolar       |
+| Palatal      | Dorso de la lengua y paladar          |
+| Velar        | Dorso de la lengua y velo del paladar |
+
+---
+
+## El punto de articulación
+
+<div style="float:right">
+  <img width="700" src="./assets/img/aparatofonador2.png">
+</div>
+
+1. Bilabial     
+2. Labiodental  
+3. Interdental
+4. Dental       
+5. Alveolar     
+6. Alveopalatal 
+7. Palatal      
+8. Velar        
 
 ---
 
@@ -382,6 +477,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 | :----------- | :------------------------------------ | :------------- |
 | Bilabial     | Los dos labios                        | \_ \_ \_       |
 | Labiodental  | Labio inferior y dientes superiores   | \_             |
+| Interdental  | Ápice y dientes inferiores/superiores | \_             |
 | Dental       | Ápice y dientes superiores            | \_ \_          |
 | Alveolar     | Ápice y alvéolos                      | \_ \_ \_ \_ \_ |
 | Alveopalatal | Predorso y la zona postalveolar       | \_             |
@@ -398,6 +494,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 | :----------- | :------------------------------------ | :-------------- |
 | Bilabial     | Los dos labios                        | /p, b, m/       |
 | Labiodental  | Labio inferior y dientes superiores   | /f/             |
+| Interdental  | Ápice y dientes inferiores/superiores | /θ/             |
 | Dental       | Ápice y dientes superiores            | /d, t/          |
 | Alveolar     | Ápice y alvéolos                      | /s, l, n, r, ɾ/ |
 | Alveopalatal | Predorso y la zona postalveolar       | /ʧ/             |
@@ -412,14 +509,85 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ## Descripción articulatoria
 
-1. La sonoridad (¿vibran las cuerdas vocals?)
+1. La sonoridad (¿vibran las cuerdas vocales?)
 1. El modo de articulación (¿Cómo se produce el obstáculo del aire?)
 1. El punto de articulación (¿Dónde?)
 
 --- .segue bg:grey
 
-
 # Más descripción articulatoria
+
+---
+
+## Describid los siguientes sonidos según su modo, punto y sonoridad...
+
+| Fonema | Descripción articulatoria |
+| :----- | :------------------------ |
+| /a/    |                           |
+| /f/    |                           |
+| /θ/    |                           |
+| /d/    |                           |
+| /i/    |                           |
+| /ɲ/    |                           |
+| /ʝ/    |                           |
+| /l/    |                           |
+| /o/    |                           |
+| /w/    |                           |
+| /ɾ/    |                           |
+
+---
+
+## Describid los siguientes sonidos según su modo, punto y sonoridad...
+
+| Fonema |     Descripción articulatoria     |
+| :----- | :-------------------------------- |
+| /a/    | baja, central                     |
+| /f/    | fricativa, labiodental, sorda     |
+| /θ/    | fricativa, interdental, sorda     |
+| /d/    | oclusiva, dental, sonora          |
+| /i/    | alta, anterior, estirada          |
+| /ɲ/    | nasal, palatal, sonora            |
+| /ʝ/    | fricativa, palatal, sonora        |
+| /l/    | lateral, alveolar, sonora         |
+| /o/    | media, posterior, redondeada      |
+| /w/    | fricativa, labio-velar, sonora    |
+| /ɾ/    | vibrante simple, alveolar, sonora |
+
+---
+
+## Identificad los siguientes sonidos de acuerdo a su modo, punto y sonoridad...
+
+|      Descripción articulatoria      | Fonema |
+| :---------------------------------- | :----- |
+| media, anterior, estirada           |        |
+| oclusiva, bilabial, sorda           |        |
+| nasal, bilabial, sonora             |        |
+| vibrante multiple, alveolar, sonora |        |
+| africada, alveopalatal, sorda       |        |
+| fricativa, velar, sorda             |        |
+| lateral, palatal, sonora            |        |
+| oclusiva, dental, sorda             |        |
+| nasal, alveolar, sonora             |        |
+| fricativa, alveolar, sorda          |        |
+| alta, posterior, redondeada         |        |
+
+---
+
+## Identificad los siguientes sonidos de acuerdo a su modo, punto y sonoridad...
+
+|      Descripción articulatoria      | Fonema |
+| :---------------------------------- | :----- |
+| media, anterior, estirada           | /e/    |
+| oclusiva, bilabial, sorda           | /p/    |
+| nasal, bilabial, sonora             | /m/    |
+| vibrante multiple, alveolar, sonora | /r/    |
+| africada, alveopalatal, sorda       | /ʧ/    |
+| fricativa, velar, sorda             | /x/    |
+| lateral, palatal, sonora            | /ʎ/    |
+| oclusiva, dental, sorda             | /t/    |
+| nasal, alveolar, sonora             | /n/    |
+| fricativa, alveolar, sorda          | /s/    |
+| alta, posterior, redondeada         | /u/    |
 
 ---
 
@@ -499,7 +667,6 @@ es.te.se.ño.re.su.na.mi.go.mí.o
 - Este señor es un amigo mío.  
 /ˈes.te.se.ˈɲo.ˈre.su.na.ˈmi.go.ˈmi.o/
 
----
 
 
 <!-- - p. 38 de las notas de clase  -->
