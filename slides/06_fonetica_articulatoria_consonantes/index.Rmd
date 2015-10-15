@@ -46,7 +46,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## El aparato fonador
 
 <div align="center">
-  <img width="800" src="./assets/img/aparatofonador.pdf">
+  <img width="800" src="./assets/img/aparatofonador.png">
 </div>
 
 - **Aparato fonador**: las partes del cuerpo humano donde producimos los sonidos
@@ -509,9 +509,14 @@ los articuladores.
 
 ## Descripción articulatoria
 
-1. La sonoridad (¿vibran las cuerdas vocales?)
-1. El modo de articulación (¿Cómo se produce el obstáculo del aire?)
-1. El punto de articulación (¿Dónde?)
+1. En vuestras propias palabras definid los siguientes términos. 
+	- La sonoridad
+	- El modo de articulación 
+	- El punto de articulación 
+2. ¿Cómo se sabe si un sonido es sordo o sonoro?
+3. ¿Cuáles son los modos de articulación? Dad detalles de cada uno.
+4. ¿Cuántos puntos de articulación hay en español? ¿Qué diferencias hay según la 
+variedad?
 
 --- .segue bg:grey
 
@@ -671,4 +676,23 @@ es.te.se.ño.re.su.na.mi.go.mí.o
 
 <!-- - p. 38 de las notas de clase  -->
 
+--- .segue bg:grey
 
+# Repaso
+
+---
+
+## Hemos visto...
+
+- Fonética articulatoria
+	- las vocales
+	- las consonantes
+- Las vocales se describen según...
+	- su posicionamiento en dos ejes
+	- el estado de los labios
+- Las consonantes se describen según...
+	- el modo de articulación
+	- el punto de articulación
+	- la sonoridad
+
+### Pruebita el martes
