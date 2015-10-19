@@ -15,6 +15,72 @@ biglogo     : ua.png
 url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 --- .segue bg:grey
 
+# Tarea
+
+---
+
+## Unos ejemplos...
+
+- Juan y Ernesto insisten mucho.
+- Pedro hizo dos viajes a Indio, California.
+- Nadie sabía si Marta tenía cáncer. 
+- Este señor es un amigo mío. 
+
+---
+
+## Unos ejemplos...
+
+- Juan y Ernesto insisten mucho.  
+jua.nyer.nes.toin.sis.ten.mu.cho
+- Pedro hizo dos viajes a Indio, California.  
+pe.dro.hi.zo.dos.via.je.sa.in.dio.ca.li.for.nia
+
+---
+
+## Unos ejemplos...
+
+- Juan y Ernesto insisten mucho.  
+/ˈxu̯a.ni̯er.ˈnes.toi̯n.ˈsis.ten.ˈmu.ʧo/
+- Pedro hizo dos viajes a Indio, California.  
+/ˈpe.dro.ˈi.so.ˈdos.ˈbi̯a.xe.sa.ˈin.di̯oːka.li.ˈfor.ni̯a/
+
+---
+
+## Más ejemplos
+
+- Nadie sabía si Marta tenía cáncer. 
+- Este señor es un amigo mío. 
+
+---
+
+## Más ejemplos
+
+- Nadie sabía si Marta tenía cáncer.  
+na.die.sa.bí.a.si.mar.ta.te.ní.a.kán.cer
+- Este señor es un amigo mío.  
+es.te.se.ño.re.su.na.mi.go.mí.o
+
+---
+
+## Más ejemplos
+
+- Nadie sabía si Marta tenía cáncer.  
+/ˈna.di̯e.sa.ˈbi.a.si.ˈmar.ta.te.ˈni.a.ˈkan.ser/
+- Este señor es un amigo mío.  
+/ˈes.te.se.ˈɲo.ˈre.su.na.ˈmi.go.ˈmi.o/
+
+
+
+<!-- - p. 38 de las notas de clase  -->
+
+--- .segue bg:grey
+
+<div align="right">
+  <img width="400" src="./assets/img/moldesGalletas.jpg">
+</div>
+
+</br> </br>
+
 # Fonema vs. alófono
 
 ---
@@ -110,33 +176,55 @@ Inglés
 
 ## Definamos
 
+<div style="float:right">
+  <img width="50" src="../../libraries/assets/img/fill.png">
+  <img width="350" src="./assets/img/moldes.jpg">
+</div>
+
 - **Fonema**: La unidad mínima que puede cambiar el significado de una palabra. Es una representación abstracta de uno o más sonidos (estos sonidos se llaman **alófonos**).
-	- /ˈpe.so/
-	- /ˈbe.so/ 
+	- '**p**eso' /ˈ**p**e.so/
+	- '**b**eso' /ˈ**b**e.so/ 
 
 ---
 
 ## Definamos
 
+<div style="float:right">
+  <img width="50" src="../../libraries/assets/img/fill.png">
+  <img width="300" src="./assets/img/galletas.png">
+</div>
+
 ### Las realizaciones de /b/ en "un beso" y "ese beso" son distintas pero no representan dos fonemas porque el significado de la palabra no cambia.
 
-- **Alófono**: La realización específica y concreta de un fonema.
-	- Un beso [um.ˈbe.so]
-	- Ese beso [e.se.ˈβe.so]
+</br>
 
----
+- **Alófono**: La realización específica y concreta de un fonema.
+	- Un **b**eso [um.ˈ**b**e.so]
+	- Ese **b**eso [e.se.ˈ**β**e.so]
+
+--- &twocol
 
 ## Repasemos
 
-<div style="float:right">
-  <img width="100" src="../../libraries/assets/img/fill.png">
-  <img width="325" src="../../libraries/assets/img/ole.gif">
+<div align="center">
+  <img width="425" src="./assets/img/fonemaAlofono.png">
 </div>
 
-- **Fonema**: representación abstracta y generalizada de un sonido
-	- se escribe entre //
-- <BLUE>Alófono</BLUE>: cada realización concreta y específica de un fonema
-	- se escribe entre [ ] 
+</br>
+
+*** {name: left}
+
+**Fonema**: 
+
+- representación abstracta y generalizada de un sonido
+- se escribe entre //
+
+*** {name: right}
+
+<BLUE>Alófono</BLUE>: 
+
+- cada realización concreta y específica de un fonema
+- se escribe entre [ ] 
 
 
 
@@ -183,6 +271,11 @@ Inglés
 
 ## ¿Fonema o alófono?
 
+<div style="float:right">
+  <img width="50" src="../../libraries/assets/img/fill.png">
+  <img width="325" src="./assets/img/fonemaAlofono.png">
+</div>
+
 ### Preguntas para determinar si dos sonidos son fonemas diferentes o variantes del mismo fonema:
 
 ### Español
@@ -195,6 +288,11 @@ Inglés
 ---
 
 ## ¿Fonema o alófono?
+
+<div style="float:right">
+  <img width="50" src="../../libraries/assets/img/fill.png">
+  <img width="325" src="./assets/img/fonemaAlofono.png">
+</div>
 
 ### Preguntas para determinar si dos sonidos son fonemas diferentes o variantes del mismo fonema:
 
@@ -224,6 +322,15 @@ Inglés
 - Transcripción fonológica: /   / (representación abstracta).
 - Lo que es un fonema en un idioma, puede ser un alófono en otro.
 
+--- .segue bg:grey
+
+# Pruebita
+
+---
+
+## Pruebita
+
+- hi
 
 
 
