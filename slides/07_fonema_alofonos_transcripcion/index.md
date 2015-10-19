@@ -322,6 +322,28 @@ Inglés
 - Transcripción fonológica: /   / (representación abstracta).
 - Lo que es un fonema en un idioma, puede ser un alófono en otro.
 
+---
+
+## A practicar
+
+- ¿Cuántos alófonos tiene el fonema /t/ en inglés?
+- ¿Cuáles son algunos de los factores que influyen en cómo pronunciamos (alófonos) los sonidos de nuestra fonología nativa (fonemas)?
+- Dad un ejemplo de un par mínimo. Explicad cómo sabéis que es un par mínimo. Fundamentad vuestro ejemplo con datos.
+
+---
+
+## A practicar
+
+>- ¿Cuántos alófonos tiene el fonema /t/ en inglés?
+  - [t]: 's**t**orm'
+  - [t^h^]: '**t**alk'
+  - [ɾ]: 'wa**t**er'
+>- ¿Cuáles son algunos de los factores que influyen en cómo pronunciamos (alófonos) los sonidos de nuestra fonología nativa (fonemas)?
+  - El contxto fonético
+  - El dialecto de la persona
+  - Otras cosas: estado de animo, énfasis, cansancio, velocidad, etc.
+- Dad un ejemplo de un par mínimo. Explicad cómo sabéis que es un par mínimo. Fundamentad vuestro ejemplo con datos.
+
 --- .segue bg:grey
 
 # Pruebita
