@@ -34,27 +34,6 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 jua.nyer.nes.toin.sis.ten.mu.cho
 - Pedro hizo dos viajes a Indio, California.  
 pe.dro.hi.zo.dos.via.je.sa.in.dio.ca.li.for.nia
-
----
-
-## Unos ejemplos...
-
-- Juan y Ernesto insisten mucho.  
-/ˈxu̯a.ni̯er.ˈnes.toi̯n.ˈsis.ten.ˈmu.ʧo/
-- Pedro hizo dos viajes a Indio, California.  
-/ˈpe.dro.ˈi.so.ˈdos.ˈbi̯a.xe.sa.ˈin.di̯oːka.li.ˈfor.ni̯a/
-
----
-
-## Más ejemplos
-
-- Nadie sabía si Marta tenía cáncer. 
-- Este señor es un amigo mío. 
-
----
-
-## Más ejemplos
-
 - Nadie sabía si Marta tenía cáncer.  
 na.die.sa.bí.a.si.mar.ta.te.ní.a.kán.cer
 - Este señor es un amigo mío.  
@@ -62,14 +41,20 @@ es.te.se.ño.re.su.na.mi.go.mí.o
 
 ---
 
-## Más ejemplos
+## Unos ejemplos...
 
+- Juan y Ernesto insisten mucho.  
+jua.nyer.nes.toin.sis.ten.mu.cho  
+/ˈxu̯a.ni̯er.ˈnes.toi̯n.ˈsis.ten.ˈmu.ʧo/
+- Pedro hizo dos viajes a Indio, California.  
+pe.dro.hi.zo.dos.via.je.sa.in.dio.ca.li.for.nia  
+/ˈpe.dro.ˈi.so.ˈdos.ˈbi̯a.xe.sa.ˈin.di̯oːka.li.ˈfor.ni̯a/
 - Nadie sabía si Marta tenía cáncer.  
+na.die.sa.bí.a.si.mar.ta.te.ní.a.kán.cer  
 /ˈna.di̯e.sa.ˈbi.a.si.ˈmar.ta.te.ˈni.a.ˈkan.ser/
 - Este señor es un amigo mío.  
+es.te.se.ño.re.su.na.mi.go.mí.o  
 /ˈes.te.se.ˈɲo.ˈre.su.na.ˈmi.go.ˈmi.o/
-
-
 
 <!-- - p. 38 de las notas de clase  -->
 
@@ -120,8 +105,8 @@ Español
 
 Inglés
 
->- [ð]: <BLUE>th</BLUE>en [ð]
-- [d]: **d**en [d]
+>- [ð]: <BLUE>th</BLUE>en
+- [d]: **d**en
 
 ---
 
@@ -237,10 +222,12 @@ Inglés
   <img width="325" src="../../libraries/assets/img/pensar2.jpg">
 </div>
 
-- ¿Cómo sabemos si dos sonidos cambian el significado y por ello pertenecen a dos fonemas diferentes?
-- Si podemos formar un *par mínimo*.
-- Un par mínimo es un par de palabras que sólo se diferencian en la pronunciación en un sonido y esa diferencia establece diferencias de significado.
-- 'Then' vs. 'den' representan un par mínimo en inglés.
+> - ¿Cómo sabemos si dos sonidos cambian el significado y por ello pertenecen a dos fonemas diferentes?
+> - Si podemos formar un *par mínimo*.
+> - Un par mínimo es un par de palabras que sólo se diferencian en la pronunciación en un sonido y esa diferencia establece diferencias de significado.
+> - 'Then' y 'den' representan un par mínimo en inglés (/ð/ vs. /d/), pero esos mismos sonidos no son contrastivos en español (sólo hay /d/).
+  - /ðen/ y /den/ son palabras distintas en inglés
+  - [den] y [ðen] no son palabras distintas en español
 
 ---
 
@@ -283,7 +270,7 @@ Inglés
 >- ¿Establecen diferencias de significado en español [ð] y [d]? **No**.
 - ¿Cómo lo sé? ¿Existe algún par mínimo en español entre [ð] y [d]? **No**.
 - Por lo tanto, [ð] y [d] en español pertenecen a la misma categoría/clase abstracta.
-- [ð] y [d] son alófonos (realizaciones) del mismo fonema.
+- [ð] y [d] son alófonos (realizaciones) del mismo fonema, /d/.
 
 ---
 
@@ -299,7 +286,7 @@ Inglés
 ### Inglés
 
 >- ¿Establecen diferencias de significado en inglés [ð] y [d]? **Sí**. 
-- ¿Cómo lo sé? ¿Existen pares mínimos en inglés entre [ð] y [d]? **Sí**. Por ejemplo, 'den' y 'then'.
+- ¿Cómo lo sé? ¿Existen pares mínimos en inglés entre [ð] y [d]? **Sí**. Por ejemplo, 'then' y 'den'.
 - Por lo tanto, [ð] y [d] en inglés pertencen a dos categorías/clases abstractas diferentes. Son dos fonemas.
 - [ð] y [d] son alófonos (realizaciones) de dos fonemas diferentes: /ð/ y /d/.
 
@@ -310,7 +297,8 @@ Inglés
 >- El fonema es un concepto abstracto.
 >- El alófono es la representación de un sonido.
 >- Los fonemas no se articulan, pero los alófonos sí.
->- Los fonemas cambian el significado, los alófonos no.
+>- Los fonemas cambian el significado de una palabra. Son contrastivos.
+>- Los alófonos no cambian el significado de una palabra. No son contrastivos.
 >- Para saber si un sonido es fonema o no hay que intentar establecer un "par mínimo".
 
 ---
