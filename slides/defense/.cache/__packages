@@ -1,0 +1,13 @@
+base
+slidify
+ggplot2
+dplyr
+knitr
+lingStuff
+tidyr
+DT
+gridExtra
+plyr
+pander
+leaflet
+xtable

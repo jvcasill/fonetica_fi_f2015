@@ -1,0 +1,10 @@
+# Date
+
+- Late October
+- Natasha teaches (m-w) so Thu/Fri work best
+
+# Set up
+
+- setwd("~/academia/research/in_progress/dissertation/proposal/defense")
+- library(slidify)
+- slidify("index.Rmd")
