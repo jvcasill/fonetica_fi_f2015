@@ -240,7 +240,7 @@ daː.en.tɾa.do.e.nel.xu̯e.go/
 
 ---
 
-## Trascripción fonémica
+## Transcripción fonémica
 
 1. No me digas ahora eso porque no lo entiendo
 1. Los dos hermanos salieron a pasear al parque
@@ -256,7 +256,7 @@ daː.en.tɾa.do.e.nel.xu̯e.go/
 
 ---
 
-## Trascripción fonémica
+## Transcripción fonémica
 
 1. Nomedigasahoraesoporquenoloentiendo
 1. Losdoshermanossalieronapasearalparque
@@ -272,7 +272,7 @@ daː.en.tɾa.do.e.nel.xu̯e.go/
 
 ---
 
-## Trascripción fonémica
+## Transcripción fonémica
 
 1. /no.me.ˈdi.ga.sa.ˈo.ɾa.e.so.poɾ.ke.no.lo.en.ˈti̯en.do/
 2. /los.do.seɾ.ˈma.no.sa.li̯e.ˈɾo.na.pa.se.ˈa.ɾal.ˈpaɾ.ke/
