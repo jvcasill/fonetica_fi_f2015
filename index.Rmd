@@ -98,6 +98,31 @@ writeLines(links[-c(1, 2, last, last2)])
 - El español de EE.UU.
 
 
+</br> 
+
+
+## Referencias
+
+```{r, eval=TRUE, echo=FALSE, cache=FALSE}
+library(RefManageR)
+bib <- ReadBib("./libraries/assets/refs/phon340bib.bib", check = FALSE)
+```
+
+
+```{r, results='asis', echo=FALSE, eval=TRUE}
+ui <- "-"
+writeLines(ui); print(bib[key = "Colina"], .opts = list(check.entries = FALSE, 
+					  style = "html", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "ILH2011"], .opts = list(check.entries = FALSE, 
+					  style = "html", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "Olarrea"], .opts = list(check.entries = FALSE, 
+					  style = "html", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "cOral"], .opts = list(check.entries = FALSE, 
+					  style = "html", bib.style = "authoryear"))
+```
+
+
+
 
 
 
