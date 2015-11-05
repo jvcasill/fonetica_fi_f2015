@@ -117,6 +117,8 @@ writeLines(ui); print(bib[key = "ILH2011"], .opts = list(check.entries = FALSE,
 					  style = "html", bib.style = "authoryear"))
 writeLines(ui); print(bib[key = "Olarrea"], .opts = list(check.entries = FALSE, 
 					  style = "html", bib.style = "authoryear"))
+writeLines(ui); print(bib[key = "Schwegler"], .opts = list(check.entries = FALSE, 
+					  style = "html", bib.style = "authoryear"))
 writeLines(ui); print(bib[key = "cOral"], .opts = list(check.entries = FALSE, 
 					  style = "html", bib.style = "authoryear"))
 ```
