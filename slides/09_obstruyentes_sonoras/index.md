@@ -501,7 +501,7 @@ sin sa**b**er como ha **v**eni**d**o te ha co**g**i**d**o la tormenta
 
 ## Fito y fitipaldis "Soldadito marinero"
 
-Él camina **ð**espacito que las prisas no son **β**uenas,  
+Él camina **ð**espacito que las prisas no son **b**uenas,  
 en su **β**razo **ð**o**β**la**ð**ita con cui**ð**a**ð**o la chaqueta.  
 Lue**ɣ**o pasa por la calle **ð**on**d**e los cha**β**ales jue**ɣ**an,  
 él tam**b**ién quiso ser niño pero le pilló la **ɣ**uerra.  
