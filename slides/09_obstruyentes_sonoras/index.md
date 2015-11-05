@@ -554,9 +554,16 @@ sin sa**β**er como ha **β**eni**ð**o te ha co**x**i**ð**o la tormenta.
 ---
 
 
-## Transcrición fonémica
+## Transcripción fonémica
 
 - /ˈxu̯an.ˈfu̯ei̯n.me.di̯a.ta.men.te.a.la.ˈti̯en.daː.kom.pɾaɾ.pan/
+
+---
+
+## Transcripción fonética
+
+- /ˈxu̯an.ˈfu̯ei̯n.me.di̯a.ta.men.te.a.la.ˈti̯en.daː.kom.pɾaɾ.pan/  
+  [ˈxu̯aɱ.ˈfu̯ei̯m.me.**ð**i̯a.ta.men̪.te.a.la.ˈti̯en̪.**d**aː.kom.pɾaɾ.pan]
 
 ---
 
@@ -587,6 +594,54 @@ sin sa**β**er como ha **β**eni**ð**o te ha co**x**i**ð**o la tormenta.
 | [f] | fricativo | labiodental | sordo     |
 | [x] | fricativo | velar       | sordo     |
 | [β] | fricativo | bilabial    | sonoro    |
+
+--- .segue bg:black
+
+## Enemigo \#3
+
+# Ejercicios
+
+--- .segue bg:black
+
+<div>
+  <img width="1200" src="./assets/img/asim.png">
+</div>
+
+## La asimilación
+
+---
+
+</br></br>
+
+<div>
+  <img width="1200" src="./assets/img/sp_en_stops1.png">
+</div>
+
+---
+
+</br></br>
+
+<div>
+  <img width="1200" src="./assets/img/sp_en_stops2.png">
+</div>
+
+---
+
+### La percepción del habla es automática
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G-lN8vWm3m0" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
 
 --- .segue bg:grey
 
@@ -681,8 +736,8 @@ sin sa**β**er como ha **β**eni**ð**o te ha co**x**i**ð**o la tormenta.
 </div>
 
 >- Las mismas reglas se aplican entre palabras
-  - el yunque: [el.ˈʝuŋ.ke]
-  - un yunque: [un.ˈdʒuŋ.ke]
+  - el yogur: [el.ʝo.ˈɣuɾ]
+  - un yogur: [un.dʒo.ˈɣuɾ]
 
 <!-- \includegraphics[scale=.4]{yod5.png} -->
 
@@ -712,11 +767,11 @@ sin sa**β**er como ha **β**eni**ð**o te ha co**x**i**ð**o la tormenta.
 
 >- [ʝ]
   - Más fuerte que 'y' en inglés en
-    - '**y**ellow'
+      - '**y**ellow'
 - [dʒ]
   - Parecido a la pronunciación de 'j' y 'dg' en inglés en 
-    - '**j**ungle'
-    - 'ju**dg**e'
+      - '**j**ungle'
+      - 'ju**dg**e'
 
 <!-- <div align="center">
   <img src="./assets/img/yod7.png">
