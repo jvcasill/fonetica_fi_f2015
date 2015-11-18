@@ -149,16 +149,16 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ### Ejemplos
 
-| Alófono |    Contexto    |     |    Ejemplo     |  Transcripción fonética |
-| :------ | :------------- | :-: | :------------- | :---------------------- |
-| [m]     | C bilabial     |  →  | "un barco"     | [u**m.ˈb**aɾ.ko]        |
-| [ɱ]     | C labiodental  |  →  | "en Finlandia" | [e**ɱ.f**in.ˈlan̪.di̯a] |
-| [n̟]    | C interdental  |  →  | "un cielo"     | [u**n̟.θ**i̯e.lo]       |
-| [n̪]    | C dental       |  →  | "en Finlandia" | [eɱ.fin.ˈla**n̪.d**i̯a] |
-| [n]     | C alveolar     |  →  | "ansiedad"     | [a**n.s**i̯e.ˈðað]      |
-| [ɳ]     | C alveopalatal |  →  | "ancho"        | [ˈa**ɳ.ʧ**o]            |
-| [ɲ]     | C palatal      |  →  | "inyección"    | i**ɲ.ʝ**ek.ˈθi̯on] o [i**ɲ.dʒ**ek.ˈθi̯on]    |
-| [ŋ]     | C velar        |  →  | "tengo"        | [ˈte**ŋ.g**o]           |
+| Alófono |    Contexto    |     |    Ejemplo     |           Transcripción fonética           |
+| :------ | :------------- | :-: | :------------- | :----------------------------------------- |
+| [m]     | C bilabial     |  →  | "un barco"     | [u**m.ˈb**aɾ.ko]                           |
+| [ɱ]     | C labiodental  |  →  | "en Finlandia" | [e**ɱ.f**in.ˈlan̪.di̯a]                    |
+| [n̟]    | C interdental  |  →  | "un cielo"     | [u**n̟.ˈθ**i̯e.lo]                         |
+| [n̪]    | C dental       |  →  | "en Finlandia" | [eɱ.fin.ˈla**n̪.d**i̯a]                    |
+| [n]     | C alveolar     |  →  | "ansiedad"     | [a**n.s**i̯e.ˈðað]                         |
+| [ɳ]     | C alveopalatal |  →  | "ancho"        | [ˈa**ɳ.ʧ**o]                               |
+| [ɲ]     | C palatal      |  →  | "inyección"    | [i**ɲ.ʝ**ek.ˈθi̯on] o [i**ɲ.dʒ**ek.ˈθi̯on] |
+| [ŋ]     | C velar        |  →  | "tengo"        | [ˈte**ŋ.g**o]                              |
 
 ---
 
@@ -317,6 +317,14 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 
 
+
+
+
+
+
+
+
+
 <div align="right">
   <img width="300" src="./assets/img/laterals1.gif">
 </div>
@@ -326,6 +334,205 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 # Las laterales
 
 ---
+
+## Las laterales
+
+<!-- <div style="float:right">
+  <img width="400" src="./assets/img/nasales2.png">
+</div> -->
+
+### En general, sólo hay un fonema
+
+- /l/: lateral, alveolar, sonora
+
+---
+
+## Las laterales
+
+### Es un fonema, hay pares mínimos
+
+</br>
+
+| Principio de palabra |                           |     | Interior de palabra |                           |
+| :------------------- | :------------------------ | :-- | :------------------ | :------------------------ |
+| **l**ata/**p**ata    | /ˈ**l**a.ta/ /ˈ**p**a.ta/ |     | pa**l**a/pa**n**a   | /ˈpa.**l**a/ /ˈpa.**n**a/ |
+
+---
+
+## Las laterales
+
+<!-- <div style="float:right">
+  <img width="400" src="./assets/img/nasales2.png">
+</div> -->
+
+### En general, sólo hay un fonema
+
+- /l/: lateral, alveolar, sonora
+
+### Pero algunas variedades cuentan con otro...
+
+- /ʎ/: lateral, **palatal**, sonora
+
+---
+
+## Las laterales
+
+### Son fonemas, hay pares mínimos
+
+</br>
+
+|     Principio de palabra    |                                       |     |     Interior de palabra     |                                        |
+| :-------------------------- | :------------------------------------ | :-- | :-------------------------- | :------------------------------------- |
+| **l**ama/**ll**ama/**m**ama | /ˈ**l**a.ma/ /ˈ**ʎ**a.ma/ /ˈ**m**a.ma |     | ca**l**a/ca**ll**a/ca**m**a | /ˈka.**l**a/ /ˈka.**ʎ**a/ /ˈka.**m**a/ |
+
+---
+
+## Las laterales
+
+### La asimilación de las laterales
+
+- En posición de coda, la lateral asume el punto de articulación de la consonante siguiente en algunos casos...
+
+### Ejemplos
+
+| Alófono |    Contexto    |     |  Ejemplo   | Transcripción fonética |
+| :------ | :------------- | :-: | :--------- | :--------------------- |
+| [l̟]    | C interdental  |  →  | "alce"     | [ˈa**l̟.θ**e]          |
+| [l̪]    | C dental       |  →  | "saldo"    | [ˈsa**l̪.d**o]         |
+| [l]     | C alveolar     |  →  | "al salir" | [a**l.s**a.ˈliɾ]       |
+| [ɭ]     | C alveopalatal |  →  | "colchón"  | [ko**ɭ.ˈʧ**on]         |
+| [ʎ]     | C palatal      |  →  | "el yate"  | [e**ʎ.ˈʝ**a.te]        |
+
+---
+
+## Las laterales
+
+<iframe width="560" height="315" src="http://soundsofspeech.uiowa.edu/spanish/spanish.html" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## Las laterales
+
+### No hay laterales...
+
+- bilabiales
+- labiodentales
+- velares
+
+### Cuando una lateral va seguida de una consonante bilabial, labiodental o velar se realiza como [l]. ¿Por qué?
+
+>- Intentad hacer una lateral bilabial o labiodental
+- ¿y la velar?
+
+---
+
+## Las laterales
+
+### Existen laterales velares, pero no forman parte del español estándar
+
+</br>
+
+|      Inglés      | Transcripción | Español | Transcripción |
+| :--------------- | :------------ | :------ | :------------ |
+| <BLUE>[ɬ]</BLUE> |               | **[l]** |               |
+| Al               | [æɬ]          | al      | [al]          |
+| mill             | [mɪɬ]         | mil     | [mil]         |
+| total            | [ˈt^(h)o.ɾɬ]  | total   | [to.ˈtal]     |
+
+---
+
+## Transcribid (variedad peninsular estándar)
+
+- Ellos no tienen que ganar un sueldo más alto para mejorar su nivel de vida.  
+- La fonética es dificil y no me gusta para nada.  
+- El cielo está muy gris durante esta temporada  
+- El chófer era borde con los clientes  
+- No compres el hielo  
+
+---
+
+## Transcribid (variedad peninsular estándar)
+
+>- Ellos no tienen que ganar un sueldo más alto para mejorar su nivel de vida.  
+  /ˈe.ʝos.no.ˈti̯e.neN.ke.ga.ˈna.ɾuN.ˈsu̯el.do.ma.ˈsal.to.pa.ɾa.me.xo.ˈɾaɾ.su.ni.ˈbel.de.ˈbi.da/  
+  [ˈe.ʝoz.no.ˈti̯e.neŋ.ke.ɣa.ˈna.ɾun.ˈsu̯el̪.do.ma.ˈsal̪.to.pa.ɾa.me.xo.ˈɾaɾ.su.ni.ˈβel̪.de.ˈβi.ða]
+- La fonética es dificil y no me gusta para nada.  
+  /la.fo.ˈne.ti.ka.es.di.ˈfi.θi.li.no.me.ˈgus.ta.pa.ɾa.na.da/  
+  [la.fo.ˈne.ti.ka.ez.ði.ˈfi.θi.li.no.me.ˈɣus.ta.pa.ɾa.na.ða]  
+- El cielo está muy gris durante esta temporada  
+  /eL.ˈθi̯e.lo.es.ˈta.mui̯.ˈgɾis.du.ˈɾaN.teːs.ta.teN.po.ˈɾa.da/  
+  [el̟.ˈθi̯e.lo.es.ˈta.mui̯.ˈgɾiz.ðu.ˈɾan̪.teːs.ta.tem.po.ˈɾa.ða]
+- El chófer era borde con los clientes  
+  /eL.ˈʧo.fe.ɾe.ɾa.ˈboɾ.de.koN.los.ˈkli̯eN.tes/  
+  [eɭ.ˈʧo.fe.ɾe.ɾa.ˈβoɾ.ðe.kon.los.ˈkli̯en̪.tes]
+- No compres el hielo  
+  /no.ˈkom.pɾe.seL.ˈʝe.lo/  
+  [no.ˈkom.pɾe.seʎ.ˈʝe.lo]
+
+---
+
+## Las laterales
+
+<div align='center'>
+  <img src="./assets/img/resumen1.png">
+</div>
+
+---
+
+## Las laterales
+
+<div align='center'>
+  <img src="./assets/img/resumen2.png">
+</div>
+
+---
+
+## Las laterales
+
+<div align='center'>
+  <img src="./assets/img/resumen3.png">
+</div>
+
+---
+
+## Las laterales
+
+<div align='center'>
+  <img src="./assets/img/resumen4.png">
+</div>
+
+---
+
+## Los fonemas con un alófono
+
+### ¿Cuáles son los fonemas con solamente un alófono?
+
+- /p/, /t/ y /k/
+- /ʧ/
+- /ɾ/ y /r/
+- /f/ y /x/
+- /ɲ/
+
+---
+
+</br>
+
+<div align='center'>
+  <img src="./assets/img/casillas_bessett_2013_rasgos_distintivos.png">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

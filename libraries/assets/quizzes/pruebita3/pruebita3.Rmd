@@ -1,0 +1,80 @@
+---
+fontsize: 11pt
+geometry: margin=.5in
+header-includes:
+   - \setlength\parindent{24pt}
+   - \usepackage{caption}
+   - \usepackage{tipa}
+   - \usepackage{array}
+output: pdf_document
+---
+
+\pagenumbering{gobble}
+
+## 1. Descripción articulatoria (15 puntos).
+
+\begin{center}
+\begin{tabular}{|m{4cm}|m{4cm}|m{4cm}|m{4cm}|}
+\hline 
+Alófono                   & Modo                  & Punto                 & Sonoridad       \\
+\hline
+\textipa{[\textbeta]}     & \phantom{hello worldhello world} & \phantom{hello worldhello world} & \phantom{hello worldhello world} \\
+\hline 
+\textipa{[\texttheta]}    &                       &                       & \\ [2ex]
+\hline
+\textipa{[\dh]}           &                       &                       & \\ [2ex]
+\hline
+\textipa{[\textdyoghlig]} &                       &                       & \\ [2ex]
+\hline
+\textipa{[\textltailm]}   &                       &                       & \\ [2ex]
+\hline
+\end{tabular}
+\end{center}
+
+## 2. Explique el proceso de sonorización. Dé un ejemplo (2 puntos).
+
+\vspace{1in}
+
+## 3. Describa los problemas (de pronunciación y de ortografía) que presentan las fricativas \mbox{\textipa{/f, x/}}. Dé ejemplos relevantes (3 puntos). 
+
+
+
+
+\vspace{.75in}
+
+
+
+
+
+
+
+## 1. Descripción articulatoria (15 puntos).
+
+\begin{center}
+\begin{tabular}{|m{4cm}|m{4cm}|m{4cm}|m{4cm}|}
+\hline 
+Alófono                   & Modo                  & Punto                 & Sonoridad       \\
+\hline
+\textipa{[\textbeta]}     & \phantom{hello worldhello world} & \phantom{hello worldhello world} & \phantom{hello worldhello world} \\
+\hline 
+\textipa{[\texttheta]}    &                       &                       & \\ [2ex]
+\hline
+\textipa{[\dh]}           &                       &                       & \\ [2ex]
+\hline
+\textipa{[\textdyoghlig]} &                       &                       & \\ [2ex]
+\hline
+\textipa{[\textltailm]}   &                       &                       & \\ [2ex]
+\hline
+\end{tabular}
+\end{center}
+
+## 2. Explique el proceso de sonorización. Dé un ejemplo (2 puntos).
+
+\vspace{1in}
+
+## 3. Describa los problemas (de pronunciación y de ortografía) que presentan las fricativas \mbox{\textipa{/f, x/}}. Dé ejemplos relevantes (3 puntos). 
+
+
+
+
+
