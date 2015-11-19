@@ -301,6 +301,20 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
   - transcripción fonológica: ARCHIFONEMA /N/
   - transcripción fonética: el alófono que corresponda según el punto de articulación de la siguiente consonante
 
+---
+
+## La tarea
+
+>- No contestes el teléfono si es para mí  
+  /no.koN.ˈtes.te.seL.te.ˈle.fo.no.si̯es.ˈpa.ɾa.mi/  
+  [no.kon̪.ˈtes.te.sel̪.te.ˈle.fo.no.si̯es.ˈpa.ɾa.mi]
+- Al final sí encontré lo que me dijiste  
+  /aL.fi.ˈnaL.ˈsi.eN.koN.ˈtɾe.lo.ke.me.di.ˈxis.te/  
+  [al.fi.ˈnal.ˈsi.eŋ.kon̪.ˈtɾe.lo.ke.me.ði.ˈxis.te]
+- La cámara de gas no fue un buen invento de la humanidad  
+  /la.ˈka.ma.ɾa.de.gas.no.fu̯eu̯N.bu̯e.niN.ˈbeN.to.de.lau̯.ma.ni.ˈdad/  
+  [la.ˈka.ma.ɾa.ðe.ɣaz.no.fu̯eu̯m.bu̯e.nim.ˈben̪.to.ðe.lau̯.ma.ni.ˈðað]
+
 --- .segue bg:black
 
 
@@ -454,7 +468,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 ## Transcribid (variedad peninsular estándar)
 
 >- Ellos no tienen que ganar un sueldo más alto para mejorar su nivel de vida.  
-  /ˈe.ʝos.no.ˈti̯e.neN.ke.ga.ˈna.ɾuN.ˈsu̯el.do.ma.ˈsal.to.pa.ɾa.me.xo.ˈɾaɾ.su.ni.ˈbel.de.ˈbi.da/  
+  /ˈe.ʝos.no.ˈti̯e.neN.ke.ga.ˈna.ɾuN.ˈsu̯eL.do.ma.ˈsaL.to.pa.ɾa.me.xo.ˈɾaɾ.su.ni.ˈbeL.de.ˈbi.da/  
   [ˈe.ʝoz.no.ˈti̯e.neŋ.ke.ɣa.ˈna.ɾun.ˈsu̯el̪.do.ma.ˈsal̪.to.pa.ɾa.me.xo.ˈɾaɾ.su.ni.ˈβel̪.de.ˈβi.ða]
 - La fonética es dificil y no me gusta para nada.  
   /la.fo.ˈne.ti.ka.es.di.ˈfi.θi.li.no.me.ˈgus.ta.pa.ɾa.na.da/  
@@ -466,7 +480,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
   /eL.ˈʧo.fe.ɾe.ɾa.ˈboɾ.de.koN.los.ˈkli̯eN.tes/  
   [eɭ.ˈʧo.fe.ɾe.ɾa.ˈβoɾ.ðe.kon.los.ˈkli̯en̪.tes]
 - No compres el hielo  
-  /no.ˈkom.pɾe.seL.ˈʝe.lo/  
+  /no.ˈkoN.pɾe.seL.ˈʝe.lo/  
   [no.ˈkom.pɾe.seʎ.ˈʝe.lo]
 
 ---
@@ -507,7 +521,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
 
 ### ¿Cuáles son los fonemas con solamente un alófono?
 
-- /p/, /t/ y /k/
+>- /p/, /t/ y /k/
 - /ʧ/
 - /ɾ/ y /r/
 - /f/ y /x/
