@@ -475,7 +475,7 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
   [la.fo.ˈne.ti.ka.ez.ði.ˈfi.θi.li.no.me.ˈɣus.ta.pa.ɾa.na.ða]  
 - El cielo está muy gris durante esta temporada  
   /eL.ˈθi̯e.lo.es.ˈta.mui̯.ˈgɾis.du.ˈɾaN.teːs.ta.teN.po.ˈɾa.da/  
-  [el̟.ˈθi̯e.lo.es.ˈta.mui̯.ˈgɾiz.ðu.ˈɾan̪.teːs.ta.tem.po.ˈɾa.ða]
+  [el̟.ˈθi̯e.lo.es.ˈta.mui̯.ˈɣɾiz.ðu.ˈɾan̪.teːs.ta.tem.po.ˈɾa.ða]
 - El chófer era borde con los clientes  
   /eL.ˈʧo.fe.ɾe.ɾa.ˈboɾ.de.koN.los.ˈkli̯eN.tes/  
   [eɭ.ˈʧo.fe.ɾe.ɾa.ˈβoɾ.ðe.kon.los.ˈkli̯en̪.tes]
