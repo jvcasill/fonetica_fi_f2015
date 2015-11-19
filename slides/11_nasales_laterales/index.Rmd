@@ -535,7 +535,23 @@ url         : {lib: "../../libraries", assets: "../../libraries/assets"}
   <img src="./assets/img/casillas_bessett_2013_rasgos_distintivos.png">
 </div>
 
+--- &multitext
 
+## Pruebita - Contesta las siguientes preguntas...
+
+1. Descripción articulatoria: [β, θ, ð, dʒ, ɱ]
+2. Explique el proceso de sonorización. Dé un ejemplo.
+3. Describa los problemas (de pronunciación y de ortografía) que peresentan las frivativas /f, x/. Dé ejemplos relevantes.
+
+*** .explanation
+
+1. <span class='answer'>[β]: fricativo, bilabial, sonoro; [θ]: fricativo, interdental, sordo; [ð]: frivativo, dental, sonoro; [dʒ]: africado, alveopalatal, sonoro; [ɱ]: nasal, labiodental, sonoro</span>
+2. <span class='answer'>La sonorización es el proceso por el cual el sonido fricativo alveolar sordo adquiere el rasgo +sonoro ([z]) cuando se encuentra antes de una consonante sonora (ej. 'mismo' [ˈmiz.mo]).</span>
+3. <span class='answer'>Las fricativas /f, x/ no presentan problemas de pronunciación para el no nativo. Con respecto a la ortografía, el fonema /x/ no tiene correspondencia exclusiva, por lo que puede confundirse con la 'g' y la 'j' (ej. 'gitano' [xi.ˈta.no] vs. 'gente' [ˈxen̪.te]).</span>
+
+*** .hint
+
+No hay pistas.
 
 
 
