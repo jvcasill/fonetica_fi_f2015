@@ -671,6 +671,7 @@ Your browser does not support the video tag.
   - la aspiración 
   - elisión 
   - geminación
+  - velarización 
 - la velarización de /n/
 - la lateralización de /r/
 - el rotacismo de /l/
@@ -681,7 +682,6 @@ Your browser does not support the video tag.
 
 - Debilitamiento y pérdida de fricativas
 - Rehilamiento de /ʝ/
-- Uvularización de /x/
 - Glotización de /x/
 - Fricatización velar de /r/
 - Desafricación de /ʧ/
