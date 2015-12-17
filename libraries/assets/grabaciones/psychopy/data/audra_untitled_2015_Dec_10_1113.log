@@ -1,0 +1,205 @@
+0.3507 	WARNING 	Movie2 stim could not be imported and won't be available
+8.9118 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0xfee3f30>, name='window1', pos=[0, 0], screen=0, size=array([1680, 1050]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.9118 	EXP 	window1: recordFrameIntervals = False
+9.0778 	EXP 	window1: recordFrameIntervals = True
+9.2609 	EXP 	window1: recordFrameIntervals = False
+9.3563 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+9.3622 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1.5)
+9.3672 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'\xa1Gracias!', units=u'norm', win=Window(...), wrapWidth=1)
+9.3775 	EXP 	text_2: autoDraw = True
+41.1809 	DATA 	Keypress: space
+41.1867 	EXP 	Imported list.xlsx as conditions, 27 conditions, 1 params
+41.1871 	EXP 	Created sequence: sequential, trialTypes=27, nReps=1, seed=None
+41.1874 	EXP 	New trial (rep=0, index=0): {u'stim': u'pata'}
+41.1898 	EXP 	window1: recordFrameIntervals = False
+41.1976 	EXP 	text_2: autoDraw = False
+41.1976 	EXP 	text: text = u'pata'
+41.1976 	EXP 	text: autoDraw = True
+41.1977 	EXP 	window1: recordFrameIntervals = False
+42.8144 	DATA 	Keypress: space
+42.8149 	EXP 	New trial (rep=0, index=1): {u'stim': u'bata'}
+42.8172 	EXP 	window1: recordFrameIntervals = False
+42.8308 	EXP 	text: autoDraw = False
+42.8308 	EXP 	text: text = u'bata'
+42.8308 	EXP 	text: autoDraw = True
+42.8309 	EXP 	window1: recordFrameIntervals = False
+44.1312 	DATA 	Keypress: space
+44.1316 	EXP 	New trial (rep=0, index=2): {u'stim': u'taco'}
+44.1340 	EXP 	window1: recordFrameIntervals = False
+44.1477 	EXP 	text: autoDraw = False
+44.1477 	EXP 	text: text = u'taco'
+44.1477 	EXP 	text: autoDraw = True
+44.1479 	EXP 	window1: recordFrameIntervals = False
+45.5647 	DATA 	Keypress: space
+45.5651 	EXP 	New trial (rep=0, index=3): {u'stim': u'dedo'}
+45.5675 	EXP 	window1: recordFrameIntervals = False
+45.5848 	EXP 	text: autoDraw = False
+45.5848 	EXP 	text: text = u'dedo'
+45.5848 	EXP 	text: autoDraw = True
+45.5850 	EXP 	window1: recordFrameIntervals = False
+46.8148 	DATA 	Keypress: space
+46.8152 	EXP 	New trial (rep=0, index=4): {u'stim': u'casa'}
+46.8176 	EXP 	window1: recordFrameIntervals = False
+46.8313 	EXP 	text: autoDraw = False
+46.8313 	EXP 	text: text = u'casa'
+46.8313 	EXP 	text: autoDraw = True
+46.8314 	EXP 	window1: recordFrameIntervals = False
+48.3485 	DATA 	Keypress: space
+48.3488 	EXP 	New trial (rep=0, index=5): {u'stim': u'gato'}
+48.3511 	EXP 	window1: recordFrameIntervals = False
+48.3647 	EXP 	text: autoDraw = False
+48.3647 	EXP 	text: text = u'gato'
+48.3647 	EXP 	text: autoDraw = True
+48.3649 	EXP 	window1: recordFrameIntervals = False
+49.3484 	DATA 	Keypress: space
+49.3488 	EXP 	New trial (rep=0, index=6): {u'stim': u'daba'}
+49.3513 	EXP 	window1: recordFrameIntervals = False
+49.3649 	EXP 	text: autoDraw = False
+49.3649 	EXP 	text: text = u'daba'
+49.3649 	EXP 	text: autoDraw = True
+49.3650 	EXP 	window1: recordFrameIntervals = False
+50.6651 	DATA 	Keypress: space
+50.6655 	EXP 	New trial (rep=0, index=7): {u'stim': u'hada'}
+50.6689 	EXP 	window1: recordFrameIntervals = False
+50.6817 	EXP 	text: autoDraw = False
+50.6817 	EXP 	text: text = u'hada'
+50.6817 	EXP 	text: autoDraw = True
+50.6818 	EXP 	window1: recordFrameIntervals = False
+51.8155 	DATA 	Keypress: space
+51.8159 	EXP 	New trial (rep=0, index=8): {u'stim': u'haga'}
+51.8182 	EXP 	window1: recordFrameIntervals = False
+51.8317 	EXP 	text: autoDraw = False
+51.8317 	EXP 	text: text = u'haga'
+51.8317 	EXP 	text: autoDraw = True
+51.8319 	EXP 	window1: recordFrameIntervals = False
+53.5153 	DATA 	Keypress: space
+53.5157 	EXP 	New trial (rep=0, index=9): {u'stim': u'en Mallorca'}
+53.5205 	EXP 	window1: recordFrameIntervals = False
+53.5319 	EXP 	text: autoDraw = False
+53.5319 	EXP 	text: text = u'en Mallorca'
+53.5319 	EXP 	text: autoDraw = True
+53.5321 	EXP 	window1: recordFrameIntervals = False
+56.4990 	DATA 	Keypress: space
+56.4994 	EXP 	New trial (rep=0, index=10): {u'stim': u'en Finlandia'}
+56.5041 	EXP 	window1: recordFrameIntervals = False
+56.5156 	EXP 	text: autoDraw = False
+56.5156 	EXP 	text: text = u'en Finlandia'
+56.5156 	EXP 	text: autoDraw = True
+56.5158 	EXP 	window1: recordFrameIntervals = False
+58.5160 	DATA 	Keypress: space
+58.5164 	EXP 	New trial (rep=0, index=11): {u'stim': u'encima'}
+58.5194 	EXP 	window1: recordFrameIntervals = False
+58.5323 	EXP 	text: autoDraw = False
+58.5323 	EXP 	text: text = u'encima'
+58.5323 	EXP 	text: autoDraw = True
+58.5325 	EXP 	window1: recordFrameIntervals = False
+59.9329 	DATA 	Keypress: space
+59.9334 	EXP 	New trial (rep=0, index=12): {u'stim': u'enano'}
+59.9367 	EXP 	window1: recordFrameIntervals = False
+59.9493 	EXP 	text: autoDraw = False
+59.9493 	EXP 	text: text = u'enano'
+59.9493 	EXP 	text: autoDraw = True
+59.9495 	EXP 	window1: recordFrameIntervals = False
+61.9664 	DATA 	Keypress: space
+61.9667 	EXP 	New trial (rep=0, index=13): {u'stim': u'hincha'}
+61.9695 	EXP 	window1: recordFrameIntervals = False
+61.9829 	EXP 	text: autoDraw = False
+61.9829 	EXP 	text: text = u'hincha'
+61.9829 	EXP 	text: autoDraw = True
+61.9831 	EXP 	window1: recordFrameIntervals = False
+64.0500 	DATA 	Keypress: space
+64.0504 	EXP 	New trial (rep=0, index=14): {u'stim': u'a\xf1o'}
+64.0540 	EXP 	window1: recordFrameIntervals = False
+64.0662 	EXP 	text: autoDraw = False
+64.0662 	EXP 	text: text = u'a\xf1o'
+64.0662 	EXP 	text: autoDraw = True
+64.0664 	EXP 	window1: recordFrameIntervals = False
+65.0668 	DATA 	Keypress: space
+65.0676 	EXP 	New trial (rep=0, index=15): {u'stim': u'tango'}
+65.0718 	EXP 	window1: recordFrameIntervals = False
+65.0830 	EXP 	text: autoDraw = False
+65.0830 	EXP 	text: text = u'tango'
+65.0830 	EXP 	text: autoDraw = True
+65.0831 	EXP 	window1: recordFrameIntervals = False
+66.7335 	DATA 	Keypress: space
+66.7339 	EXP 	New trial (rep=0, index=16): {u'stim': u'pala'}
+66.7363 	EXP 	window1: recordFrameIntervals = False
+66.7500 	EXP 	text: autoDraw = False
+66.7500 	EXP 	text: text = u'pala'
+66.7500 	EXP 	text: autoDraw = True
+66.7502 	EXP 	window1: recordFrameIntervals = False
+68.0338 	DATA 	Keypress: space
+68.0342 	EXP 	New trial (rep=0, index=17): {u'stim': u'alto'}
+68.0369 	EXP 	window1: recordFrameIntervals = False
+68.0502 	EXP 	text: autoDraw = False
+68.0502 	EXP 	text: text = u'alto'
+68.0502 	EXP 	text: autoDraw = True
+68.0504 	EXP 	window1: recordFrameIntervals = False
+69.1503 	DATA 	Keypress: space
+69.1507 	EXP 	New trial (rep=0, index=18): {u'stim': u'algo'}
+69.1531 	EXP 	window1: recordFrameIntervals = False
+69.1668 	EXP 	text: autoDraw = False
+69.1668 	EXP 	text: text = u'algo'
+69.1668 	EXP 	text: autoDraw = True
+69.1669 	EXP 	window1: recordFrameIntervals = False
+70.1504 	DATA 	Keypress: space
+70.1508 	EXP 	New trial (rep=0, index=19): {u'stim': u'para'}
+70.1532 	EXP 	window1: recordFrameIntervals = False
+70.1669 	EXP 	text: autoDraw = False
+70.1669 	EXP 	text: text = u'para'
+70.1669 	EXP 	text: autoDraw = True
+70.1670 	EXP 	window1: recordFrameIntervals = False
+71.4672 	DATA 	Keypress: space
+71.4677 	EXP 	New trial (rep=0, index=20): {u'stim': u'corre'}
+71.4703 	EXP 	window1: recordFrameIntervals = False
+71.4838 	EXP 	text: autoDraw = False
+71.4838 	EXP 	text: text = u'corre'
+71.4838 	EXP 	text: autoDraw = True
+71.4839 	EXP 	window1: recordFrameIntervals = False
+72.8508 	DATA 	Keypress: space
+72.8512 	EXP 	New trial (rep=0, index=21): {u'stim': u'Enrique'}
+72.8560 	EXP 	window1: recordFrameIntervals = False
+72.8673 	EXP 	text: autoDraw = False
+72.8673 	EXP 	text: text = u'Enrique'
+72.8673 	EXP 	text: autoDraw = True
+72.8674 	EXP 	window1: recordFrameIntervals = False
+74.2509 	DATA 	Keypress: space
+74.2513 	EXP 	New trial (rep=0, index=22): {u'stim': u'Rosa'}
+74.2550 	EXP 	window1: recordFrameIntervals = False
+74.2672 	EXP 	text: autoDraw = False
+74.2672 	EXP 	text: text = u'Rosa'
+74.2672 	EXP 	text: autoDraw = True
+74.2674 	EXP 	window1: recordFrameIntervals = False
+75.4344 	DATA 	Keypress: space
+75.4349 	EXP 	New trial (rep=0, index=23): {u'stim': u'Israel'}
+75.4386 	EXP 	window1: recordFrameIntervals = False
+75.4509 	EXP 	text: autoDraw = False
+75.4509 	EXP 	text: text = u'Israel'
+75.4509 	EXP 	text: autoDraw = True
+75.4510 	EXP 	window1: recordFrameIntervals = False
+77.1844 	DATA 	Keypress: space
+77.1848 	EXP 	New trial (rep=0, index=24): {u'stim': u'\xbfCu\xe1ndo vienes?'}
+77.1927 	EXP 	window1: recordFrameIntervals = False
+77.2008 	EXP 	text: autoDraw = False
+77.2008 	EXP 	text: text = u'\xbfCu\xe1ndo vienes?'
+77.2008 	EXP 	text: autoDraw = True
+77.2010 	EXP 	window1: recordFrameIntervals = False
+78.9847 	DATA 	Keypress: space
+78.9851 	EXP 	New trial (rep=0, index=25): {u'stim': u'\xbfVienes a las 6?'}
+78.9909 	EXP 	window1: recordFrameIntervals = False
+79.0011 	EXP 	text: autoDraw = False
+79.0011 	EXP 	text: text = u'\xbfVienes a las 6?'
+79.0011 	EXP 	text: autoDraw = True
+79.0012 	EXP 	window1: recordFrameIntervals = False
+81.1018 	DATA 	Keypress: space
+81.1023 	EXP 	New trial (rep=0, index=26): {u'stim': u'El viento norte y el sol porfiaban sobre cu\xe1l de ellos era el m\xe1s fuerte, cuando acert\xf3 a pasar un viajero envuelto en ancha capa. Convinieron en que quien antes lograra obligar al viajero a quitarse la capa ser\xeda considerado m\xe1s poderoso. El viento norte sopl\xf3 con gran furia, pero cuanto m\xe1s soplaba, m\xe1s se arrebujaba en su capa el viajero; por fin el viento norte abandon\xf3 la empresa. Entonces brill\xf3 el sol con ardor, e inmediatamente se despoj\xf3 de su capa el viajero; por lo que el viento norte hubo de reconocer la superioridad del sol.'}
+81.1710 	EXP 	window1: recordFrameIntervals = False
+81.1849 	EXP 	text: autoDraw = False
+81.1849 	EXP 	text: text = u'El viento norte y el sol porfiaban sobre cu\xe1l de ellos era el m\xe1s fuerte, cuando acert\xf3 a pasar un viajero envuelto en ancha capa. Convinieron en que quien antes lograra obligar al viajero a quitarse la capa ser\xeda considerado m\xe1s poderoso. El viento norte sopl\xf3 con gran furia, pero cuanto m\xe1s soplaba, m\xe1s se arrebujaba en su capa el viajero; por fin el viento norte abandon\xf3 la empresa. Entonces brill\xf3 el sol con ardor, e inmediatamente se despoj\xf3 de su capa el viajero; por lo que el viento norte hubo de reconocer la superioridad del sol.'
+81.1849 	EXP 	text: autoDraw = True
+81.1850 	EXP 	window1: recordFrameIntervals = False
+142.7740 	DATA 	Keypress: space
+142.7906 	EXP 	text: autoDraw = False
+142.7906 	EXP 	text_3: autoDraw = True
+153.8587 	DATA 	Keypress: return
+155.2588 	DATA 	Keypress: escape
