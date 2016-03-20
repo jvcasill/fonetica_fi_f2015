@@ -782,11 +782,9 @@ Your browser does not support the video tag.
 
 ## Shiny
 
-<iframe data-src="https://jvcasill.shinyapps.io/shiny_bivariate_regression/" style="width: 900px; height: 600px seamless" id="shinyframe"></iframe>
+<iframe src="https://jvcasill.shinyapps.io/shiny_bivariate_regression/" style="border: none; width: 440px; height: 500px"></iframe>
 
 ---
-
-
 
 
 
