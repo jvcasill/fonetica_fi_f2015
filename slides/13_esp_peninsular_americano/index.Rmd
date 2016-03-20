@@ -778,8 +778,13 @@ Your browser does not support the video tag.
 - /ˈmu.ʧos.de.los.me.ˈxo.ɾe.ses.tu.ˈdi̯aN.te.se:s.foɾ.ˈθa.ɾoN.pa.ɾa.po.ˈde.ɾa.ˈθeɾ.lo.ku̯an.to.an.tes/  
   [ˈmu.ʧoz.ðe.loz.me.ˈxo.ɾe.ses.tu.ˈði̯an̪.te.se:s.foɾ.ˈθa.ɾom.pa.ɾa.po.ˈðe.ɾa.ˈθeɾ.lo.ku̯an̪.to.an̪.tes]  
   
+---
 
+## Shiny
 
+<iframe data-src="https://jvcasill.shinyapps.io/shiny_bivariate_regression/" style="width: 900px; height: 600px seamless" id="shinyframe"></iframe>
+
+---
 
 
 
